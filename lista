@@ -1,945 +1,953 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ES: LA 1" tvg-id="la1.es" group-title="Live: Spain" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TVE.png",ES: LA 1
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="Live: Spain",LA 1
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/623
-#EXTINF:-1 tvg-name="ES: LA 1 HD" tvg-id="la1.es" group-title="Live: Spain" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TVE.png",ES: LA 1 HD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="Live: Spain",LA 1 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3364
-#EXTINF:-1 tvg-name="ES: LA 2" tvg-id="la2.es" group-title="Live: Spain" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/LA2.png",ES: LA 2
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/622
-#EXTINF:-1 tvg-name="ES: La 2 SD" tvg-id="la2.es" group-title="Live: Spain" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/LA2.png",ES: La 2 SD
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="Live: Spain",La 2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23025
-#EXTINF:-1 tvg-name="ES: Antena3" tvg-id="antena3.es" group-title="Live: Spain" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/A3.png",ES: Antena3
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="Live: Spain",LA 2 HD
+http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/622
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Live: Spain",Antena3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1097
-#EXTINF:-1 tvg-name="ES: ANTENA3 HD" tvg-id="antena3.es" group-title="Live: Spain" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/A3.png",ES: ANTENA3 HD
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Live: Spain",ANTENA3 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3383
-#EXTINF:-1 tvg-name="ES: Cuatro hd" tvg-id="cuatro.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Cuatro hd
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Live: Spain",Cuatro
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/627
-#EXTINF:-1 tvg-name="ES: CUATRO FHD" tvg-id="cuatro.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: CUATRO FHD
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Live: Spain",CUATRO HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3391
-#EXTINF:-1 tvg-name="ES: Telecinco" tvg-id="telecinco.es" group-title="Live: Spain" tvg-logo="[",ES: Telecinco
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Live: Spain",Telecinco
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/624
-#EXTINF:-1 tvg-name="ES: TELECINCO HD" tvg-id="telecinco.es" group-title="Live: Spain" tvg-logo="[",ES: TELECINCO HD
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Live: Spain",TELECINCO HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3384
-#EXTINF:-1 tvg-name="ES: La Sexta hd" tvg-id="lasexta.es" group-title="Live: Spain" tvg-logo="[",ES: La Sexta hd
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="La Sexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Live: Spain",La Sexta
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/628
-#EXTINF:-1 tvg-name="ES: LA SEXTA FHD" tvg-id="lasexta.es" group-title="Live: Spain" tvg-logo="[",ES: LA SEXTA FHD
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Live: Spain",LA SEXTA HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3392
-#EXTINF:-1 tvg-name="ES: #0" tvg-id="Number 0 ES" group-title="Live: Spain" tvg-logo="Logo N/A",ES: #0
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="Live: Spain",#0
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/635
-#EXTINF:-1 tvg-name="ES: #O HD" tvg-id="Number 0 ES" group-title="Live: Spain" tvg-logo="Logo N/A",ES: #O HD
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0 HD" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="Live: Spain",#0 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2401
-#EXTINF:-1 tvg-name="ES: # Vamos" tvg-id="vamos.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: # Vamos
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: # Vamos" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1085
-#EXTINF:-1 tvg-name="ES: # Vamos HD" tvg-id="vamos.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: # Vamos HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos BAR" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos BAR
+http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34556
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos BAR 1" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos BAR 1
+http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34557
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos BAR 2" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos BAR 2
+http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34558
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="[" group-title="Live: Spain",ES: # Vamos FHD
+http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23061
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: # Vamos HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3372
-#EXTINF:-1 tvg-name="ES: # Vamos SD" tvg-id="vamos.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: # Vamos SD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos SD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos SD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34551
-#EXTINF:-1 tvg-name="ES: 24 HORAS" tvg-id="24horas.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: 24 HORAS
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 24 HORAS
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2630
-#EXTINF:-1 tvg-name="ES: 3/24" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: 3/24
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: 3/24" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 3/24
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1441
-#EXTINF:-1 tvg-name="ES: 33" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: 33
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: 33" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 33
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23077
-#EXTINF:-1 tvg-name="ES: 7RM FHD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: 7RM FHD
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="Live: Spain",ES: 7RM FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23076
-#EXTINF:-1 tvg-name="ES: 8TV Madrid" tvg-id="8 tv ES" group-title="Live: Spain" tvg-logo="Logo N/A",ES: 8TV Madrid
+#EXTINF:-1 tvg-id="8 tv ES" tvg-name="ES: 8TV Madrid" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 8TV Madrid
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1090
-#EXTINF:-1 tvg-name="ES: A&E" tvg-id="aande.es" group-title="Live: Spain" tvg-logo="[",ES: A&E
+#EXTINF:-1 tvg-id="aande.es" tvg-name="ES: A&E" tvg-logo="[" group-title="Live: Spain",ES: A&E
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2643
-#EXTINF:-1 tvg-name="ES: A3 Series" tvg-id="atreseries.es" group-title="Live: Spain" tvg-logo="[",ES: A3 Series
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 Series" tvg-logo="[" group-title="Live: Spain",ES: A3 Series
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12630
-#EXTINF:-1 tvg-name="ES: A3Series HD" tvg-id="atreseries.es" group-title="Live: Spain" tvg-logo="[",ES: A3Series HD
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3Series HD" tvg-logo="[" group-title="Live: Spain",ES: A3Series HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19208
-#EXTINF:-1 tvg-name="ES: Alquiler 1" tvg-id="alquiler1.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 1
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ES: Alquiler 1" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 1
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12642
-#EXTINF:-1 tvg-name="ES: Alquiler 2" tvg-id="alquiler2.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 2
+#EXTINF:-1 tvg-id="alquiler2.es" tvg-name="ES: Alquiler 2" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12644
-#EXTINF:-1 tvg-name="ES: Alquiler 3" tvg-id="alquiler3.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 3
+#EXTINF:-1 tvg-id="alquiler3.es" tvg-name="ES: Alquiler 3" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12645
-#EXTINF:-1 tvg-name="ES: Alquiler 4" tvg-id="alquiler4.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 4
+#EXTINF:-1 tvg-id="alquiler4.es" tvg-name="ES: Alquiler 4" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 4
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12646
-#EXTINF:-1 tvg-name="ES: Alquiler 5" tvg-id="alquiler5.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 5
+#EXTINF:-1 tvg-id="alquiler5.es" tvg-name="ES: Alquiler 5" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 5
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12647
-#EXTINF:-1 tvg-name="ES: Alquiler 6" tvg-id="alquiler6.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 6
+#EXTINF:-1 tvg-id="alquiler6.es" tvg-name="ES: Alquiler 6" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 6
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12648
-#EXTINF:-1 tvg-name="ES: Alquiler 7" tvg-id="alquiler1.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 7
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ES: Alquiler 7" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 7
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12649
-#EXTINF:-1 tvg-name="ES: Alquiler 8" tvg-id="alquiler2.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 8
+#EXTINF:-1 tvg-id="alquiler2.es" tvg-name="ES: Alquiler 8" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 8
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12650
-#EXTINF:-1 tvg-name="ES: Alquiler 9" tvg-id="alquiler3.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 9
+#EXTINF:-1 tvg-id="alquiler3.es" tvg-name="ES: Alquiler 9" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 9
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12651
-#EXTINF:-1 tvg-name="ES: Alquiler 10" tvg-id="alquiler4.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Alquiler 10
+#EXTINF:-1 tvg-id="alquiler4.es" tvg-name="ES: Alquiler 10" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Alquiler 10
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12643
-#EXTINF:-1 tvg-name="ES: AMC" tvg-id="amc.es" group-title="Live: Spain" tvg-logo="[",ES: AMC
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="[" group-title="Live: Spain",ES: AMC
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2638
-#EXTINF:-1 tvg-name="ES: AMC FHD" tvg-id="amc.es" group-title="Live: Spain" tvg-logo="[",ES: AMC FHD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="[" group-title="Live: Spain",ES: AMC FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23020
-#EXTINF:-1 tvg-name="ES: AMC HD" tvg-id="amc.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: AMC HD
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: AMC HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3371
-#EXTINF:-1 tvg-name="ES: Andalucia TV" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Andalucia TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Andalucia TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Andalucia TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1440
-#EXTINF:-1 tvg-name="ES: Aragon" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Aragon
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Aragon" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Aragon
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8211
-#EXTINF:-1 tvg-name="ES: AXN FHD" tvg-id="axn.es" group-title="Live: Spain" tvg-logo="[",ES: AXN FHD
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN FHD" tvg-logo="[" group-title="Live: Spain",ES: AXN FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23059
-#EXTINF:-1 tvg-name="ES: AXN HD" tvg-id="axn.es" group-title="Live: Spain" tvg-logo="[",ES: AXN HD
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN HD" tvg-logo="[" group-title="Live: Spain",ES: AXN HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3385
-#EXTINF:-1 tvg-name="ES: Axn Spain" tvg-id="axn.es" group-title="Live: Spain" tvg-logo="[",ES: Axn Spain
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: Axn Spain" tvg-logo="[" group-title="Live: Spain",ES: Axn Spain
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/641
-#EXTINF:-1 tvg-name="ES: AXN White FHD" tvg-id="axnwhite.es" group-title="Live: Spain" tvg-logo="[",ES: AXN White FHD
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN White FHD" tvg-logo="[" group-title="Live: Spain",ES: AXN White FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23058
-#EXTINF:-1 tvg-name="ES: AXN WHITE HD" tvg-id="axnwhite.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: AXN WHITE HD
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: AXN WHITE HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3366
-#EXTINF:-1 tvg-name="ES: Axn White Spain" tvg-id="axnwhite.es" group-title="Live: Spain" tvg-logo="[",ES: Axn White Spain
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: Axn White Spain" tvg-logo="[" group-title="Live: Spain",ES: Axn White Spain
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/640
-#EXTINF:-1 tvg-name="ES: Baby TV" tvg-id="babytv.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Baby TV
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: Baby TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Baby TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23074
-#EXTINF:-1 tvg-name="ES: Barca tv" tvg-id="barcatv.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Barca tv
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES: Barca tv" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Barca tv
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/639
-#EXTINF:-1 tvg-name="ES: Be MAD TV HD" tvg-id="bemad.es" group-title="Live: Spain" tvg-logo="[",ES: Be MAD TV HD
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: Be MAD TV HD" tvg-logo="[" group-title="Live: Spain",ES: Be MAD TV HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19209
-#EXTINF:-1 tvg-name="ES: BLAZE" tvg-id="blaze.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: BLAZE
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE" tvg-logo="Logo N/A" group-title="Live: Spain",ES: BLAZE
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23075
-#EXTINF:-1 tvg-name="ES: Boing" tvg-id="boing.es" group-title="Live: Spain" tvg-logo="[",ES: Boing
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES: Boing" tvg-logo="[" group-title="Live: Spain",ES: Boing
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2211
-#EXTINF:-1 tvg-name="ES: Bom Cine HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: Bom Cine HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: Bom Cine HD" tvg-logo="[" group-title="Live: Spain",ES: Bom Cine HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23073
-#EXTINF:-1 tvg-name="ES: C&I" tvg-id="crimeinvestigation.es" group-title="Live: Spain" tvg-logo="[",ES: C&I
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: C&I" tvg-logo="[" group-title="Live: Spain",ES: C&I
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8209
-#EXTINF:-1 tvg-name="ES: Cadena Elite" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Cadena Elite
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Cadena Elite" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Cadena Elite
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23072
-#EXTINF:-1 tvg-name="ES: Calle 13" tvg-id="calle13.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Calle 13
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: Calle 13" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Calle 13
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1096
-#EXTINF:-1 tvg-name="ES: CALLE 13 FHD" tvg-id="calle13.es" group-title="Live: Spain" tvg-logo="[",ES: CALLE 13 FHD
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="[" group-title="Live: Spain",ES: CALLE 13 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23056
-#EXTINF:-1 tvg-name="ES: CALLE 13 HD" tvg-id="calle13.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: CALLE 13 HD
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: CALLE 13 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3368
-#EXTINF:-1 tvg-name="ES: Canal Coccina" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Canal Coccina
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Canal Coccina" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Canal Coccina
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1103
-#EXTINF:-1 tvg-name="ES: Canal Decasa" tvg-id="canaldecasa.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Canal Decasa
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: Canal Decasa" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Canal Decasa
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2632
-#EXTINF:-1 tvg-name="ES: CANAL MALGA" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: CANAL MALGA
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: CANAL MALGA" tvg-logo="Logo N/A" group-title="Live: Spain",ES: CANAL MALGA
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23063
-#EXTINF:-1 tvg-name="ES: Canal Sur FHD" tvg-id="canalsur.es" group-title="Live: Spain" tvg-logo="[",ES: Canal Sur FHD
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="ES: Canal Sur FHD" tvg-logo="[" group-title="Live: Spain",ES: Canal Sur FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23070
-#EXTINF:-1 tvg-name="ES: Caza y pesca" tvg-id="cazapesca.es" group-title="Live: Spain" tvg-logo="[",ES: Caza y pesca
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: Caza y pesca" tvg-logo="[" group-title="Live: Spain",ES: Caza y pesca
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1102
-#EXTINF:-1 tvg-name="ES: CAZA Y PESCA FHD" tvg-id="cazapesca.es" group-title="Live: Spain" tvg-logo="[",ES: CAZA Y PESCA FHD
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="[" group-title="Live: Spain",ES: CAZA Y PESCA FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23055
-#EXTINF:-1 tvg-name="ES: CAZA Y PESCA HD" tvg-id="cazapesca.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: CAZA Y PESCA HD
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: CAZA Y PESCA HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8206
-#EXTINF:-1 tvg-name="ES: Clan Tve" tvg-id="clantve.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Clan Tve
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: Clan Tve" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Clan Tve
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1100
-#EXTINF:-1 tvg-name="ES: Classica" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: Classica
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Classica" tvg-logo="[" group-title="Live: Spain",ES: Classica
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2637
-#EXTINF:-1 tvg-name="ES: CMM TV" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: CMM TV
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: CMM TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: CMM TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23069
-#EXTINF:-1 tvg-name="ES: Comedy Central" tvg-id="comedycentral.es" group-title="Live: Spain" tvg-logo="[",ES: Comedy Central
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: Comedy Central" tvg-logo="[" group-title="Live: Spain",ES: Comedy Central
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2633
-#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL FHD" tvg-id="comedycentral.es" group-title="Live: Spain" tvg-logo="[",ES: COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="[" group-title="Live: Spain",ES: COMEDY CENTRAL FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23054
-#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL HD" tvg-id="comedycentral.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: COMEDY CENTRAL HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3386
-#EXTINF:-1 tvg-name="ES: COSMO FHD" tvg-id="cosmo.es" group-title="Live: Spain" tvg-logo="[",ES: COSMO FHD
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="[" group-title="Live: Spain",ES: COSMO FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23053
-#EXTINF:-1 tvg-name="ES: COSMO HD" tvg-id="cosmo.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: COSMO HD
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: COSMO HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3387
-#EXTINF:-1 tvg-name="ES: Dcine" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Dcine
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: Dcine" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Dcine
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/634
-#EXTINF:-1 tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-id="discoverychannel.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: DISCOVERY CHANNEL FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23052
-#EXTINF:-1 tvg-name="ES: DISCOVERY CHANNEL HD" tvg-id="discoverychannel.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: DISCOVERY CHANNEL HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3376
-#EXTINF:-1 tvg-name="ES: DISNEY CHANNEL FHD" tvg-id="disneychannel.es" group-title="Live: Spain" tvg-logo="[",ES: DISNEY CHANNEL FHD
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="[" group-title="Live: Spain",ES: DISNEY CHANNEL FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23051
-#EXTINF:-1 tvg-name="ES: DISNEY CHANNEL HD" tvg-id="disneychannel.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: DISNEY CHANNEL HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3382
-#EXTINF:-1 tvg-name="ES: Disney Channel Spain" tvg-id="disneychannel.es" group-title="Live: Spain" tvg-logo="[",ES: Disney Channel Spain
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: Disney Channel Spain" tvg-logo="[" group-title="Live: Spain",ES: Disney Channel Spain
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/633
-#EXTINF:-1 tvg-name="ES: Disney Junior" tvg-id="disneyjunior.es" group-title="Live: Spain" tvg-logo="[",ES: Disney Junior
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: Disney Junior" tvg-logo="[" group-title="Live: Spain",ES: Disney Junior
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12631
-#EXTINF:-1 tvg-name="ES: Disney XD" tvg-id="disneyxd.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Disney XD
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="ES: Disney XD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Disney XD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12632
-#EXTINF:-1 tvg-name="ES: DIVINITY" tvg-id="divinity.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: DIVINITY
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="Logo N/A" group-title="Live: Spain",ES: DIVINITY
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2218
-#EXTINF:-1 tvg-name="ES: DKiss" tvg-id="dkiss.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: DKiss
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKiss" tvg-logo="Logo N/A" group-title="Live: Spain",ES: DKiss
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12633
-#EXTINF:-1 tvg-name="ES: Dmax" tvg-id="discoverymax.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Dmax
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="ES: Dmax" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Dmax
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2641
-#EXTINF:-1 tvg-name="ES: DW" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: DW
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: DW" tvg-logo="Logo N/A" group-title="Live: Spain",ES: DW
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12634
-#EXTINF:-1 tvg-name="ES: Energy" tvg-id="energy.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Energy
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: Energy" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Energy
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1099
-#EXTINF:-1 tvg-name="ES: EUROSPORT 1FHD" tvg-id="eurosport1.es" group-title="Live: Spain" tvg-logo="[",ES: EUROSPORT 1FHD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1FHD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 1FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23050
-#EXTINF:-1 tvg-name="ES: EUROSPORT 1HD" tvg-id="eurosport1.es" group-title="Live: Spain" tvg-logo="[",ES: EUROSPORT 1HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1HD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 1HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8204
-#EXTINF:-1 tvg-name="ES: EUROSPORT 2" tvg-id="eurosport2.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: EUROSPORT 2
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="Logo N/A" group-title="Live: Spain",ES: EUROSPORT 2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8208
-#EXTINF:-1 tvg-name="ES: EUROSPORT 2FHD" tvg-id="eurosport2.es" group-title="Live: Spain" tvg-logo="[",ES: EUROSPORT 2FHD
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2FHD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 2FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23049
-#EXTINF:-1 tvg-name="ES: ExtraMadura TV" tvg-id="canalextremadurasat.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: ExtraMadura TV
+#EXTINF:-1 tvg-id="canalextremadurasat.es" tvg-name="ES: ExtraMadura TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: ExtraMadura TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23067
-#EXTINF:-1 tvg-name="ES: FDF" tvg-id="factoriaficcion.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: FDF
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF" tvg-logo="Logo N/A" group-title="Live: Spain",ES: FDF
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1098
-#EXTINF:-1 tvg-name="ES: Fox" tvg-id="fox.es" group-title="Live: Spain" tvg-logo="[",ES: Fox
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: Fox" tvg-logo="[" group-title="Live: Spain",ES: Fox
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/631
-#EXTINF:-1 tvg-name="ES: FOX FHD" tvg-id="foxlife.es" group-title="Live: Spain" tvg-logo="[",ES: FOX FHD
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX FHD" tvg-logo="[" group-title="Live: Spain",ES: FOX FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23048
-#EXTINF:-1 tvg-name="ES: FOX HD" tvg-id="fox.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: FOX HD
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: FOX HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3367
-#EXTINF:-1 tvg-name="ES: FOX LIFE FHD" tvg-id="foxlife.es" group-title="Live: Spain" tvg-logo="[",ES: FOX LIFE FHD
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="[" group-title="Live: Spain",ES: FOX LIFE FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23047
-#EXTINF:-1 tvg-name="ES: FOX LIFE HD" tvg-id="foxlife.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: FOX LIFE HD
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: FOX LIFE HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/6815
-#EXTINF:-1 tvg-name="ES: FOX News" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: FOX News
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: FOX News" tvg-logo="Logo N/A" group-title="Live: Spain",ES: FOX News
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23068
-#EXTINF:-1 tvg-name="ES: GOL T" tvg-id="gol.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: GOL T
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL T" tvg-logo="Logo N/A" group-title="Live: Spain",ES: GOL T
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1084
-#EXTINF:-1 tvg-name="ES: Historia" tvg-id="historia.es" group-title="Live: Spain" tvg-logo="[",ES: Historia
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="[" group-title="Live: Spain",ES: Historia
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/630
-#EXTINF:-1 tvg-name="ES: Historia FHD" tvg-id="historia.es" group-title="Live: Spain" tvg-logo="[",ES: Historia FHD
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia FHD" tvg-logo="[" group-title="Live: Spain",ES: Historia FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23023
-#EXTINF:-1 tvg-name="ES: HIT TV" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: HIT TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: HIT TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: HIT TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23066
-#EXTINF:-1 tvg-name="ES: Hollywood" tvg-id="hollywood.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Hollywood
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: Hollywood" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Hollywood
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/629
-#EXTINF:-1 tvg-name="ES: HOLLYWOOD FHD" tvg-id="hollywood.es" group-title="Live: Spain" tvg-logo="[",ES: HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="[" group-title="Live: Spain",ES: HOLLYWOOD FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23046
-#EXTINF:-1 tvg-name="ES: HOLLYWOOD HD" tvg-id="hollywood.es" group-title="Live: Spain" tvg-logo="[",ES: HOLLYWOOD HD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="[" group-title="Live: Spain",ES: HOLLYWOOD HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3369
-#EXTINF:-1 tvg-name="ES: Iberlia TV" tvg-id="iberaliatv.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Iberlia TV
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: Iberlia TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Iberlia TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2629
-#EXTINF:-1 tvg-name="ES: INTERECONOMIA" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: INTERECONOMIA
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: INTERECONOMIA" tvg-logo="Logo N/A" group-title="Live: Spain",ES: INTERECONOMIA
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12637
-#EXTINF:-1 tvg-name="ES: La Liga BAR FHD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: La Liga BAR FHD
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: La Liga BAR FHD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23045
-#EXTINF:-1 tvg-name="ES: La Liga BAR HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: La Liga BAR HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: La Liga BAR HD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/7180
-#EXTINF:-1 tvg-name="ES: La Liga BAR M1" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: La Liga BAR M1
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: La Liga BAR M1" tvg-logo="Logo N/A" group-title="Live: Spain",ES: La Liga BAR M1
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23065
-#EXTINF:-1 tvg-name="ES: La Liga BAR M2" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: La Liga BAR M2
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: La Liga BAR M2" tvg-logo="Logo N/A" group-title="Live: Spain",ES: La Liga BAR M2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34553
-#EXTINF:-1 tvg-name="ES: La Liga BAR M3" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: La Liga BAR M3
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: La Liga BAR M3" tvg-logo="Logo N/A" group-title="Live: Spain",ES: La Liga BAR M3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34554
-#EXTINF:-1 tvg-name="ES: La Liga BAR M4" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: La Liga BAR M4
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: La Liga BAR M4" tvg-logo="Logo N/A" group-title="Live: Spain",ES: La Liga BAR M4
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34555
-#EXTINF:-1 tvg-name="ES: La Liga BAR SD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: La Liga BAR SD
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: La Liga BAR SD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: La Liga BAR SD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34552
-#EXTINF:-1 tvg-name="ES: Levante TV" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Levante TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Levante TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Levante TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2640
-#EXTINF:-1 tvg-name="ES: M. Accion" tvg-id="movistaraccion.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Accion
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M. Accion" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Accion
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/638
-#EXTINF:-1 tvg-name="ES: M. Accion FHD" tvg-id="movistaraccion.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Accion FHD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M. Accion FHD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Accion FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23042
-#EXTINF:-1 tvg-name="ES: M. Accion HD" tvg-id="movistaraccion.es" group-title="Live: Spain" tvg-logo="[",ES: M. Accion HD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M. Accion HD" tvg-logo="[" group-title="Live: Spain",ES: M. Accion HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2402
-#EXTINF:-1 tvg-name="ES: M. Comedia" tvg-id="movistarcomedia.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Comedia
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M. Comedia" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Comedia
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/637
-#EXTINF:-1 tvg-name="ES: M. Comedia FHD" tvg-id="movistarcomedia.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Comedia FHD
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M. Comedia FHD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Comedia FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23043
-#EXTINF:-1 tvg-name="ES: M. Comedia HD" tvg-id="movistarcomedia.es" group-title="Live: Spain" tvg-logo="[",ES: M. Comedia HD
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M. Comedia HD" tvg-logo="[" group-title="Live: Spain",ES: M. Comedia HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2403
-#EXTINF:-1 tvg-name="ES: M. Deportes" tvg-id="movistardeportes.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Deportes
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M. Deportes" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Deportes
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/636
-#EXTINF:-1 tvg-name="ES: M. Deportes 1" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes 1
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Deportes 1" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23094
-#EXTINF:-1 tvg-name="ES: M. Deportes 1 FHD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes 1 FHD
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23032
-#EXTINF:-1 tvg-name="ES: M. Deportes 2" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes 2
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Deportes 2" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23093
-#EXTINF:-1 tvg-name="ES: M. Deportes 3" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes 3
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Deportes 3" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23092
-#EXTINF:-1 tvg-name="ES: M. Deportes 4" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes 4
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Deportes 4" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 4
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23091
-#EXTINF:-1 tvg-name="ES: M. Deportes 5" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes 5
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Deportes 5" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 5
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23090
-#EXTINF:-1 tvg-name="ES: M. Deportes 6" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes 6
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Deportes 6" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 6
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23089
-#EXTINF:-1 tvg-name="ES: M. Deportes 7" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Deportes 7
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. Deportes 7" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Deportes 7
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23088
-#EXTINF:-1 tvg-name="ES: M. Deportes FHD" tvg-id="movistardeportes.es" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes FHD
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M. Deportes FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23041
-#EXTINF:-1 tvg-name="ES: M. Deportes HD" tvg-id="movistardeportes.es" group-title="Live: Spain" tvg-logo="[",ES: M. Deportes HD
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M. Deportes HD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2407
-#EXTINF:-1 tvg-name="ES: M. DISNEY" tvg-id="mdisney.es" group-title="Live: Spain" tvg-logo="[",ES: M. DISNEY
+#EXTINF:-1 tvg-id="mdisney.es" tvg-name="ES: M. DISNEY" tvg-logo="[" group-title="Live: Spain",ES: M. DISNEY
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23031
-#EXTINF:-1 tvg-name="ES: M. Doc&Roll" tvg-id="mcinedocandroll.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Doc&Roll
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Doc&Roll
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1091
-#EXTINF:-1 tvg-name="ES: M. Doc&Roll FHD" tvg-id="mcinedocandroll.es" group-title="Live: Spain" tvg-logo="[",ES: M. Doc&Roll FHD
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23040
-#EXTINF:-1 tvg-name="ES: M. Doc&Roll HD" tvg-id="mcinedocandroll.es" group-title="Live: Spain" tvg-logo="[",ES: M. Doc&Roll HD
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll HD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3388
-#EXTINF:-1 tvg-name="ES: M. Drama" tvg-id="moviestardrama.es" group-title="Live: Spain" tvg-logo="[",ES: M. Drama
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M. Drama" tvg-logo="[" group-title="Live: Spain",ES: M. Drama
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/17207
-#EXTINF:-1 tvg-name="ES: M. Drama FHD" tvg-id="moviestardrama.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Drama FHD
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M. Drama FHD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Drama FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23039
-#EXTINF:-1 tvg-name="ES: M. Drama HD" tvg-id="moviestardrama.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Drama HD
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M. Drama HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Drama HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2404
-#EXTINF:-1 tvg-name="ES: M. Estrenos" tvg-id="movistarestrenos.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Estrenos
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M. Estrenos" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Estrenos
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1094
-#EXTINF:-1 tvg-name="ES: M. Estrenos FHD" tvg-id="movistarestrenos.es" group-title="Live: Spain" tvg-logo="[",ES: M. Estrenos FHD
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M. Estrenos FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Estrenos FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23038
-#EXTINF:-1 tvg-name="ES: M. Estrenos HD" tvg-id="movistarestrenos.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Estrenos HD
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M. Estrenos HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Estrenos HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2405
-#EXTINF:-1 tvg-name="ES: M. Formula 1" tvg-id="movistarformula1.es" group-title="Live: Spain" tvg-logo="[",ES: M. Formula 1
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1" tvg-logo="[" group-title="Live: Spain",ES: M. Formula 1
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1087
-#EXTINF:-1 tvg-name="ES: M. Formula 1 FHD" tvg-id="movistarformula1.es" group-title="Live: Spain" tvg-logo="[",ES: M. Formula 1 FHD
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Formula 1 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23037
-#EXTINF:-1 tvg-name="ES: M. Formula 1 HD" tvg-id="movistarformula1.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Formula 1 HD
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Formula 1 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2570
-#EXTINF:-1 tvg-name="ES: M. Futbol HD" tvg-id="movistarfutbol.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Futbol HD
+#EXTINF:-1 tvg-id="movistarfutbol.es" tvg-name="ES: M. Futbol HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Futbol HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2408
-#EXTINF:-1 tvg-name="ES: M. Golf" tvg-id="movistargolf.es" group-title="Live: Spain" tvg-logo="[",ES: M. Golf
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M. Golf" tvg-logo="[" group-title="Live: Spain",ES: M. Golf
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1086
-#EXTINF:-1 tvg-name="ES: M. Golf FHD" tvg-id="movistargolf.es" group-title="Live: Spain" tvg-logo="[",ES: M. Golf FHD
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M. Golf FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Golf FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23036
-#EXTINF:-1 tvg-name="ES: M. LaLiga" tvg-id="beinlaliga.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. LaLiga
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="ES: M. LaLiga" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. LaLiga
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2409
-#EXTINF:-1 tvg-name="ES: M. LaLIga 1 (event only)" tvg-id="beinlaliga1.es" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 1 (event only)
+#EXTINF:-1 tvg-id="beinlaliga1.es" tvg-name="ES: M. LaLIga 1 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 1 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/7181
-#EXTINF:-1 tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-id="beinlaliga1.es" group-title="Live: Spain" tvg-logo="[",ES: M. LaLiga 1FHD (event only)
+#EXTINF:-1 tvg-id="beinlaliga1.es" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 1FHD (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23105
-#EXTINF:-1 tvg-name="ES: M. LaLIga 2 (event only)" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 2 (event only)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. LaLIga 2 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 2 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/7182
-#EXTINF:-1 tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. LaLiga 2FHD (event only)
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 2FHD (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23104
-#EXTINF:-1 tvg-name="ES: M. LaLIga 3 (event only)" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 3 (event only)
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. LaLIga 3 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 3 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/7183
-#EXTINF:-1 tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. LaLIga 3FHD (event only)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. LaLIga 3FHD (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34550
-#EXTINF:-1 tvg-name="ES: M. LaLIga 4 (event only)" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 4 (event only)
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. LaLIga 4 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 4 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23103
-#EXTINF:-1 tvg-name="ES: M. LaLIga 5 (event only)" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 5 (event only)
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. LaLIga 5 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 5 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23102
-#EXTINF:-1 tvg-name="ES: M. LaLIga 6 (event only)" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 6 (event only)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. LaLIga 6 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 6 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23101
-#EXTINF:-1 tvg-name="ES: M. LaLIga 7 (event only)" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 7 (event only)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. LaLIga 7 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 7 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23100
-#EXTINF:-1 tvg-name="ES: M. LaLIga 8 (event only)" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: M. LaLIga 8 (event only)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. LaLIga 8 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 8 (event only)
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23099
-#EXTINF:-1 tvg-name="ES: M. LaLiga FHD" tvg-id="beinlaliga.es" group-title="Live: Spain" tvg-logo="[",ES: M. LaLiga FHD
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23057
-#EXTINF:-1 tvg-name="ES: M. LaLiga HD" tvg-id="beinlaliga.es" group-title="Live: Spain" tvg-logo="[",ES: M. LaLiga HD
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19207
-#EXTINF:-1 tvg-name="ES: M. LaLiga SD" tvg-id="beinlaliga.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. LaLiga SD
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="ES: M. LaLiga SD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. LaLiga SD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/33150
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones" tvg-id="mligadecampeones.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Liga De Campeones
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Liga De Campeones
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/6491
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 1 HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 1 HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Liga De Campeones 1 HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 1 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19205
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 2" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 2
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Liga De Campeones 2" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19204
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 3" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 3
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Liga De Campeones 3" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19203
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 4" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 4
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Liga De Campeones 4" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 4
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19202
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 5" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 5
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: M. Liga De Campeones 5" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 5
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19201
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 6" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 6
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. Liga De Campeones 6" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 6
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23098
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 7" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 7
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. Liga De Campeones 7" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 7
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19200
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones 8" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones 8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: M. Liga De Campeones 8" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 8
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19199
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones FHD" tvg-id="mligadecampeonesuhd.es" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones FHD
+#EXTINF:-1 tvg-id="mligadecampeonesuhd.es" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23035
-#EXTINF:-1 tvg-name="ES: M. Liga De Campeones HD" tvg-id="mligadecampeones.es" group-title="Live: Spain" tvg-logo="[",ES: M. Liga De Campeones HD
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/19206
-#EXTINF:-1 tvg-name="ES: M. Series" tvg-id="movistarseries.es" group-title="Live: Spain" tvg-logo="[",ES: M. Series
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: M. Series" tvg-logo="[" group-title="Live: Spain",ES: M. Series
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1093
-#EXTINF:-1 tvg-name="ES: M. Series FHD" tvg-id="movistarseries.es" group-title="Live: Spain" tvg-logo="[",ES: M. Series FHD
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: M. Series FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23034
-#EXTINF:-1 tvg-name="ES: M. Series HD" tvg-id="movistarseries.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Series HD
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: M. Series HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Series HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2406
-#EXTINF:-1 tvg-name="ES: M. Series Mania FHD" tvg-id="movistarseriesmania.es" group-title="Live: Spain" tvg-logo="[",ES: M. Series Mania FHD
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M. Series Mania FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series Mania FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23033
-#EXTINF:-1 tvg-name="ES: M. Series Mania HD" tvg-id="movistarseriesmania.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M. Series Mania HD
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M. Series Mania HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M. Series Mania HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3365
-#EXTINF:-1 tvg-name="ES: M. SeriesMania" tvg-id="movistarseriesmania.es" group-title="Live: Spain" tvg-logo="[",ES: M. SeriesMania
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M. SeriesMania" tvg-logo="[" group-title="Live: Spain",ES: M. SeriesMania
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1095
-#EXTINF:-1 tvg-name="ES: M.Golf  HD" tvg-id="movistargolf.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: M.Golf  HD
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M.Golf  HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: M.Golf  HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3373
-#EXTINF:-1 tvg-name="ES: Mega HD" tvg-id="mega.es" group-title="Live: Spain" tvg-logo="[",ES: Mega HD
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: Mega HD" tvg-logo="[" group-title="Live: Spain",ES: Mega HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2217
-#EXTINF:-1 tvg-name="ES: Melilla TV" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Melilla TV
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: Melilla TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Melilla TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12636
-#EXTINF:-1 tvg-name="ES: MEZZO LIVE HD" tvg-id="mezzolivehd.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: MEZZO LIVE HD
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: MEZZO LIVE HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8205
-#EXTINF:-1 tvg-name="ES: MTV Spana" tvg-id="mtv.es" group-title="Live: Spain" tvg-logo="[",ES: MTV Spana
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES: MTV Spana" tvg-logo="[" group-title="Live: Spain",ES: MTV Spana
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2213
-#EXTINF:-1 tvg-name="ES: Multideporte" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12629
-#EXTINF:-1 tvg-name="ES: Multideporte 1" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 1
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 1" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 1
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23087
-#EXTINF:-1 tvg-name="ES: Multideporte 2" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 2
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 2" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23086
-#EXTINF:-1 tvg-name="ES: Multideporte 3" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 3
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 3" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23085
-#EXTINF:-1 tvg-name="ES: Multideporte 4" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 4
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 4" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 4
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23084
-#EXTINF:-1 tvg-name="ES: Multideporte 5" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 5
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 5" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 5
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23083
-#EXTINF:-1 tvg-name="ES: Multideporte 6" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 6
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 6" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 6
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23082
-#EXTINF:-1 tvg-name="ES: Multideporte 7" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 7
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 7" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 7
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23081
-#EXTINF:-1 tvg-name="ES: Multideporte 8" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Multideporte 8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Multideporte 8" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Multideporte 8
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23080
-#EXTINF:-1 tvg-name="ES: Nat Geo" tvg-id="natgeo.es" group-title="Live: Spain" tvg-logo="[",ES: Nat Geo
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: Nat Geo" tvg-logo="[" group-title="Live: Spain",ES: Nat Geo
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1101
-#EXTINF:-1 tvg-name="ES: Nat Geo Wild" tvg-id="natgeowild.es" group-title="Live: Spain" tvg-logo="[",ES: Nat Geo Wild
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: Nat Geo Wild" tvg-logo="[" group-title="Live: Spain",ES: Nat Geo Wild
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/626
-#EXTINF:-1 tvg-name="ES: NAT GEO WILD FHD" tvg-id="natgeowild.es" group-title="Live: Spain" tvg-logo="[",ES: NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="[" group-title="Live: Spain",ES: NAT GEO WILD FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23030
-#EXTINF:-1 tvg-name="ES: NAT GEO WILD HD" tvg-id="natgeowild.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: NAT GEO WILD HD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: NAT GEO WILD HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3389
-#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-id="natgeo.es" group-title="Live: Spain" tvg-logo="[",ES: NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="[" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23029
-#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-id="natgeo.es" group-title="Live: Spain" tvg-logo="[",ES: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="[" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3375
-#EXTINF:-1 tvg-name="ES: NEOX HD" tvg-id="neox.es" group-title="Live: Spain" tvg-logo="[",ES: NEOX HD
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX HD" tvg-logo="[" group-title="Live: Spain",ES: NEOX HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2216
-#EXTINF:-1 tvg-name="ES: Nick Jr" tvg-id="nickjr.es" group-title="Live: Spain" tvg-logo="[",ES: Nick Jr
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: Nick Jr" tvg-logo="[" group-title="Live: Spain",ES: Nick Jr
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12635
-#EXTINF:-1 tvg-name="ES: NICKELODEON FHD" tvg-id="nickelodeon.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: NICKELODEON FHD
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: NICKELODEON FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23028
-#EXTINF:-1 tvg-name="ES: NICKELODEON HD" tvg-id="nickelodeon.es" group-title="Live: Spain" tvg-logo="[",ES: NICKELODEON HD
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="[" group-title="Live: Spain",ES: NICKELODEON HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/6817
-#EXTINF:-1 tvg-name="ES: NONSTOPEOPLE" tvg-id="nonstoppeople.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: NONSTOPEOPLE
+#EXTINF:-1 tvg-id="nonstoppeople.es" tvg-name="ES: NONSTOPEOPLE" tvg-logo="Logo N/A" group-title="Live: Spain",ES: NONSTOPEOPLE
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8207
-#EXTINF:-1 tvg-name="ES: NOVA" tvg-id="nova.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: NOVA
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA" tvg-logo="Logo N/A" group-title="Live: Spain",ES: NOVA
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2214
-#EXTINF:-1 tvg-name="ES: Odisea" tvg-id="odisea.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Odisea
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: Odisea" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Odisea
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2631
-#EXTINF:-1 tvg-name="ES: Orbe 21" tvg-id="canalorbe21.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Orbe 21
+#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="ES: Orbe 21" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Orbe 21
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2215
-#EXTINF:-1 tvg-name="ES: Panda" tvg-id="panda.pt" group-title="Live: Spain" tvg-logo="[",ES: Panda
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="ES: Panda" tvg-logo="[" group-title="Live: Spain",ES: Panda
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23019
-#EXTINF:-1 tvg-name="ES: Paramount" tvg-id="paramountchannel.es" group-title="Live: Spain" tvg-logo="[",ES: Paramount
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: Paramount" tvg-logo="[" group-title="Live: Spain",ES: Paramount
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2642
-#EXTINF:-1 tvg-name="ES: RealMadrid TV" tvg-id="realmadridtv.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: RealMadrid TV
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: RealMadrid TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: RealMadrid TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/632
-#EXTINF:-1 tvg-name="ES: Realmadrid TV ( English )" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Realmadrid TV ( English )
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: Realmadrid TV ( English )" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Realmadrid TV ( English )
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/30051
-#EXTINF:-1 tvg-name="ES: Realmadrid TV FHD" tvg-id="realmadridtv.es" group-title="Live: Spain" tvg-logo="[",ES: Realmadrid TV FHD
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: Realmadrid TV FHD" tvg-logo="[" group-title="Live: Spain",ES: Realmadrid TV FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/22796
-#EXTINF:-1 tvg-name="ES: RTVC" tvg-id="rtespanol.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: RTVC
+#EXTINF:-1 tvg-id="rtespanol.es" tvg-name="ES: RTVC" tvg-logo="Logo N/A" group-title="Live: Spain",ES: RTVC
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/17206
-#EXTINF:-1 tvg-name="ES: RTVCE Ceuta" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",ES: RTVCE Ceuta
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: RTVCE Ceuta" tvg-logo="Logo N/A" group-title="Live: Spain",ES: RTVCE Ceuta
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23024
-#EXTINF:-1 tvg-name="ES: Sundance TV" tvg-id="sundance.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Sundance TV
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: Sundance TV" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Sundance TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12641
-#EXTINF:-1 tvg-name="ES: Sundance TV FHD" tvg-id="sundance.es" group-title="Live: Spain" tvg-logo="[",ES: Sundance TV FHD
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: Sundance TV FHD" tvg-logo="[" group-title="Live: Spain",ES: Sundance TV FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23027
-#EXTINF:-1 tvg-name="ES: SYFY" tvg-id="syfy.es" group-title="Live: Spain" tvg-logo="[",ES: SYFY
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY" tvg-logo="[" group-title="Live: Spain",ES: SYFY
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2639
-#EXTINF:-1 tvg-name="ES: SYFY FHD" tvg-id="syfy.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: SYFY FHD
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: SYFY FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23026
-#EXTINF:-1 tvg-name="ES: SYFY HD" tvg-id="syfy.es" group-title="Live: Spain" tvg-logo="[",ES: SYFY HD
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY HD" tvg-logo="[" group-title="Live: Spain",ES: SYFY HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/6814
-#EXTINF:-1 tvg-name="ES: TCM FHD" tvg-id="tcm.es" group-title="Live: Spain" tvg-logo="[",ES: TCM FHD
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="[" group-title="Live: Spain",ES: TCM FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23021
-#EXTINF:-1 tvg-name="ES: TCM HD" tvg-id="tcm.es" group-title="Live: Spain" tvg-logo="[",ES: TCM HD
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM HD" tvg-logo="[" group-title="Live: Spain",ES: TCM HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3370
-#EXTINF:-1 tvg-name="ES: Teledeporte" tvg-id="teledeporte.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Teledeporte
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: Teledeporte" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Teledeporte
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1089
-#EXTINF:-1 tvg-name="ES: Ten" tvg-id="ten.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Ten
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES: Ten" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Ten
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12639
-#EXTINF:-1 tvg-name="ES: TNT" tvg-id="tnt.es" group-title="Live: Spain" tvg-logo="[",ES: TNT
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT" tvg-logo="[" group-title="Live: Spain",ES: TNT
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2634
-#EXTINF:-1 tvg-name="ES: TOROS FHD" tvg-id="toros.es" group-title="Live: Spain" tvg-logo="[",ES: TOROS FHD
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="[" group-title="Live: Spain",ES: TOROS FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23079
-#EXTINF:-1 tvg-name="ES: TOROS HD" tvg-id="toros.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: TOROS HD
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: TOROS HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/6816
-#EXTINF:-1 tvg-name="ES: Torros" tvg-id="toros.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: Torros
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: Torros" tvg-logo="Logo N/A" group-title="Live: Spain",ES: Torros
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1092
-#EXTINF:-1 tvg-name="ES: TV Galicia" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",ES: TV Galicia
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: TV Galicia" tvg-logo="Logo N/A" group-title="Live: Spain",ES: TV Galicia
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1429
-#EXTINF:-1 tvg-name="ES: TV3 Cataluña FHD" tvg-id="tv3cataluny.es" group-title="Live: Spain" tvg-logo="[",ES: TV3 Cataluña FHD
+#EXTINF:-1 tvg-id="tv3cataluny.es" tvg-name="ES: TV3 Cataluña FHD" tvg-logo="[" group-title="Live: Spain",ES: TV3 Cataluña FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23062
-#EXTINF:-1 tvg-name="ES: TV3 HD" tvg-id="tv3cataluny.es" group-title="Live: Spain" tvg-logo="Logo N/A",ES: TV3 HD
+#EXTINF:-1 tvg-id="tv3cataluny.es" tvg-name="ES: TV3 HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: TV3 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2210
-#EXTINF:-1 tvg-name="ES: VIAJAR FHD" tvg-id="viajar.es" group-title="Live: Spain" tvg-logo="[",ES: VIAJAR FHD
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="[" group-title="Live: Spain",ES: VIAJAR FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23078
-#EXTINF:-1 tvg-name="ES: VIAJAR HD" tvg-id="viajar.es" group-title="Live: Spain" tvg-logo="[",ES: VIAJAR HD
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: VIAJAR HD" tvg-logo="[" group-title="Live: Spain",ES: VIAJAR HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3390
-#EXTINF:-1 tvg-name="VIP ES: CAZAVISION" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: CAZAVISION
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: CAZAVISION" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: CAZAVISION
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34559
-#EXTINF:-1 tvg-name="VIP ES: DARK" tvg-id="dark.es" group-title="Live: Spain" tvg-logo="[",VIP ES: DARK
+#EXTINF:-1 tvg-id="dark.es" tvg-name="VIP ES: DARK" tvg-logo="[" group-title="Live: Spain",VIP ES: DARK
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/656
-#EXTINF:-1 tvg-name="VIP ES: DAZN Espana 2 HD  (Only During Events )" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: DAZN Espana 2 HD  (Only During Events )
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: DAZN Espana 2 HD  (Only During Events )" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN Espana 2 HD  (Only During Events )
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/26568
-#EXTINF:-1 tvg-name="VIP ES: DAZN Espana HD  (Only During Events )" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: DAZN Espana HD  (Only During Events )
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: DAZN Espana HD  (Only During Events )" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN Espana HD  (Only During Events )
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23016
-#EXTINF:-1 tvg-name="VIP ES: Esport3" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: Esport3
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: Esport3" tvg-logo="[" group-title="Live: Spain",VIP ES: Esport3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/20620
-#EXTINF:-1 tvg-name="VIP ES: ETB 1HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: ETB 1HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: ETB 1HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 1HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/20621
-#EXTINF:-1 tvg-name="VIP ES: ETB 2HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: ETB 2HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: ETB 2HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 2HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/26925
-#EXTINF:-1 tvg-name="VIP ES: ETB 3" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: ETB 3
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: ETB 3" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/26926
-#EXTINF:-1 tvg-name="VIP ES: ETB 4" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: ETB 4
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: ETB 4" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 4
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/26927
-#EXTINF:-1 tvg-name="VIP ES: GH VIP 24H HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: GH VIP 24H HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: GH VIP 24H HD" tvg-logo="[" group-title="Live: Spain",VIP ES: GH VIP 24H HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/26929
-#EXTINF:-1 tvg-name="VIP ES: GOL HD" tvg-id="gol.es" group-title="Live: Spain" tvg-logo="[",VIP ES: GOL HD
+#EXTINF:-1 tvg-id="gol.es" tvg-name="VIP ES: GOL HD" tvg-logo="[" group-title="Live: Spain",VIP ES: GOL HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12640
-#EXTINF:-1 tvg-name="VIP ES: IBERALIA 100% CAZA HD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",VIP ES: IBERALIA 100% CAZA HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: IBERALIA 100% CAZA HD" tvg-logo="[" group-title="Live: Spain",VIP ES: IBERALIA 100% CAZA HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/26930
-#EXTINF:-1 tvg-name="VIP ES: IBERALIA 100% PESCA HD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="[",VIP ES: IBERALIA 100% PESCA HD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: IBERALIA 100% PESCA HD" tvg-logo="[" group-title="Live: Spain",VIP ES: IBERALIA 100% PESCA HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23018
-#EXTINF:-1 tvg-name="VIP ES: M. Campeones UHD 4K" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: M. Campeones UHD 4K
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: M. Campeones UHD 4K
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34560
-#EXTINF:-1 tvg-name="VIP ES: M. Formula 1 UHD 4K" tvg-id="NULL" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: M. Formula 1 UHD 4K
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: M. Formula 1 UHD 4K" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: M. Formula 1 UHD 4K
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34561
-#EXTINF:-1 tvg-name="VIP ES: M. Laliga UHD 4K" tvg-id="beinlaliga.es" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: M. Laliga UHD 4K
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="VIP ES: M. Laliga UHD 4K" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: M. Laliga UHD 4K
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/30737
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 1 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 1 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 1 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 1 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35079
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 10 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 10 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 10 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 10 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35088
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 11 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 11 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 11 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 11 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35089
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 12 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 12 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 12 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 12 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35090
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 13 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 13 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 13 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 13 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35094
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 14 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 14 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 14 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 14 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35095
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 15 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 15 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 15 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 15 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35096
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 16 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 16 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 16 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 16 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35097
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 17 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 17 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 17 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 17 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35098
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 18 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 18 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 18 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 18 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35099
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 2 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 2 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 2 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 2 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35080
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 3 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 3 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 3 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 3 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35081
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 4 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 4 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 4 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 4 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35082
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 5 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 5 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 5 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 5 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35083
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 6 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 6 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 6 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 6 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35084
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 7 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 7 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 7 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 7 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35085
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 8 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 8 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 8 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 8 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35086
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler 9 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler 9 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler 9 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler 9 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35087
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler Multivision 1 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler Multivision 1 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler Multivision 1 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 1 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35092
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler Multivision 2 FHD" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler Multivision 2 FHD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler Multivision 2 FHD" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 2 FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35093
-#EXTINF:-1 tvg-name="VIP ES: Movistar Alquiler Presentation" tvg-id="EPG N/A" group-title="Live: Spain" tvg-logo="Logo N/A",VIP ES: Movistar Alquiler Presentation
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VIP ES: Movistar Alquiler Presentation" tvg-logo="Logo N/A" group-title="Live: Spain",VIP ES: Movistar Alquiler Presentation
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/35091
-#EXTINF:-1 tvg-name="VIP ES: ODESIA FHD" tvg-id="odisea.es" group-title="Live: Spain" tvg-logo="[",VIP ES: ODESIA FHD
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="VIP ES: ODESIA FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: ODESIA FHD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23022
-#EXTINF:-1 tvg-name="VIP ES: POPULAR TV" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: POPULAR TV
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: POPULAR TV" tvg-logo="[" group-title="Live: Spain",VIP ES: POPULAR TV
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23071
-#EXTINF:-1 tvg-name="VIP ES: SOL Musica" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: SOL Musica
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: SOL Musica" tvg-logo="[" group-title="Live: Spain",VIP ES: SOL Musica
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23064
-#EXTINF:-1 tvg-name="VIP ES: Somos" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: Somos
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: Somos" tvg-logo="[" group-title="Live: Spain",VIP ES: Somos
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/20623
-#EXTINF:-1 tvg-name="VIP ES: TELEDEPORTE HD" tvg-id="teledeporte.es" group-title="Live: Spain" tvg-logo="[",VIP ES: TELEDEPORTE HD
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="VIP ES: TELEDEPORTE HD" tvg-logo="[" group-title="Live: Spain",VIP ES: TELEDEPORTE HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3374
-#EXTINF:-1 tvg-name="VIP ES: TVM" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: TVM
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: TVM" tvg-logo="[" group-title="Live: Spain",VIP ES: TVM
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/12628
-#EXTINF:-1 tvg-name="VIP ES: U-BEAT HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: U-BEAT HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: U-BEAT HD" tvg-logo="[" group-title="Live: Spain",VIP ES: U-BEAT HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/26924
-#EXTINF:-1 tvg-name="VIP ES: XTRM HD" tvg-id="NULL" group-title="Live: Spain" tvg-logo="[",VIP ES: XTRM HD
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP ES: XTRM HD" tvg-logo="[" group-title="Live: Spain",VIP ES: XTRM HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/8210
-#EXTINF:-1 tvg-name="Contratiempo" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEwYTkzMTMtODEzNC00YWM2LTgxNDMtZWNkNTQzNDVjMWQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SY1000_CR0,0,703,1000_AL_.jpg",Contratiempo
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Contratiempo" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEwYTkzMTMtODEzNC00YWM2LTgxNDMtZWNkNTQzNDVjMWQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SY1000_CR0,0,703,1000_AL_.jpg" group-title="Movies: Spanish",Contratiempo
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26371.mkv
-#EXTINF:-1 tvg-name="Durante La Tormenta" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRhNGRhMTUtOTMwYS00YzE2LTk2YWQtMDU2MGQyYWNmMmU4XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Durante La Tormenta
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Durante La Tormenta" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRhNGRhMTUtOTMwYS00YzE2LTk2YWQtMDU2MGQyYWNmMmU4XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",Durante La Tormenta
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26372.mkv
-#EXTINF:-1 tvg-name="Fe De Etarras" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhhYmUxN2QtNDE0Yi00NmI5LTkyYWUtYjkyMzQ0MDcxOWU5XkEyXkFqcGdeQXVyMjk2MDEyNjE@._V1_SY1000_CR0,0,713,1000_AL_.jpg",Fe De Etarras
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Fe De Etarras" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhhYmUxN2QtNDE0Yi00NmI5LTkyYWUtYjkyMzQ0MDcxOWU5XkEyXkFqcGdeQXVyMjk2MDEyNjE@._V1_SY1000_CR0,0,713,1000_AL_.jpg" group-title="Movies: Spanish",Fe De Etarras
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26373.mkv
-#EXTINF:-1 tvg-name="La Hora Final" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk0ZDdjOGEtNjQxZi00NzA5LTkxOGYtNjI5ZWM5MTA3OThkXkEyXkFqcGdeQXVyNDE3NTQ2ODA@._V1_SY1000_CR0,0,700,1000_AL_.jpg",La Hora Final
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Hora Final" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk0ZDdjOGEtNjQxZi00NzA5LTkxOGYtNjI5ZWM5MTA3OThkXkEyXkFqcGdeQXVyNDE3NTQ2ODA@._V1_SY1000_CR0,0,700,1000_AL_.jpg" group-title="Movies: Spanish",La Hora Final
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26374.mkv
-#EXTINF:-1 tvg-name="La Llamada" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNkNjhlMWYtYzMzZC00ZWZlLTkzMDAtY2JjNTA0NWEyZTZhXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_.jpg",La Llamada
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Llamada" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNkNjhlMWYtYzMzZC00ZWZlLTkzMDAtY2JjNTA0NWEyZTZhXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_.jpg" group-title="Movies: Spanish",La Llamada
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26375.mkv
-#EXTINF:-1 tvg-name="Maestros Del Robo" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcwZjUxMjktNzk3NS00MTE1LWIyNjUtODFmYjEwMzMzMTM3XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,695,1000_AL_.jpg",Maestros Del Robo
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Maestros Del Robo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcwZjUxMjktNzk3NS00MTE1LWIyNjUtODFmYjEwMzMzMTM3XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,695,1000_AL_.jpg" group-title="Movies: Spanish",Maestros Del Robo
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26370.mkv
-#EXTINF:-1 tvg-name="Neruda" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM0NDI4Mjc5NV5BMl5BanBnXkFtZTgwMTM0NzQ0MDI@._V1_SY1000_SX675_AL_.jpg",Neruda
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Neruda" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM0NDI4Mjc5NV5BMl5BanBnXkFtZTgwMTM0NzQ0MDI@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Neruda
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26376.mkv
-#EXTINF:-1 tvg-name="Palmeras En La Nieve" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2OTY5NTM3M15BMl5BanBnXkFtZTgwMDA1MDYxNjE@._V1_SY1000_CR0,0,700,1000_AL_.jpg",Palmeras En La Nieve
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Palmeras En La Nieve" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2OTY5NTM3M15BMl5BanBnXkFtZTgwMDA1MDYxNjE@._V1_SY1000_CR0,0,700,1000_AL_.jpg" group-title="Movies: Spanish",Palmeras En La Nieve
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26377.mkv
-#EXTINF:-1 tvg-name="Tarde Para La Ira" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VmY2EzNDQtNTRmNC00NGU5LWI1YjktYzY1OTI1YWY3MjhiXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,707,1000_AL_.jpg",Tarde Para La Ira
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tarde Para La Ira" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VmY2EzNDQtNTRmNC00NGU5LWI1YjktYzY1OTI1YWY3MjhiXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,707,1000_AL_.jpg" group-title="Movies: Spanish",Tarde Para La Ira
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26378.mkv
-#EXTINF:-1 tvg-name="Todos Lo Saben" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk4MzZiYzItMWNkYS00MjRmLTgwNzEtYjk3MDhlMmNlZmM3XkEyXkFqcGdeQXVyODk1MjM5NTk@._V1_.jpg",Todos Lo Saben
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Todos Lo Saben" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk4MzZiYzItMWNkYS00MjRmLTgwNzEtYjk3MDhlMmNlZmM3XkEyXkFqcGdeQXVyODk1MjM5NTk@._V1_.jpg" group-title="Movies: Spanish",Todos Lo Saben
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26379.mkv
-#EXTINF:-1 tvg-name="Veronica" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg",Veronica
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Veronica" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg" group-title="Movies: Spanish",Veronica
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/26380.mkv
-#EXTINF:-1 tvg-name="Doctor Sueño" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Doctor Sueño
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Doctor Sueño" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Doctor Sueño
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35351.mp4
-#EXTINF:-1 tvg-name="Despues  De Nostoros" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MTg2ODkxMV5BMl5BanBnXkFtZTgwNjI3OTE4MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Despues  De Nostoros
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Despues  De Nostoros" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ1MTg2ODkxMV5BMl5BanBnXkFtZTgwNjI3OTE4MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Despues  De Nostoros
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35352.mp4
-#EXTINF:-1 tvg-name="El Cazador De Pajaros" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE5MWUyODQtMjMyNy00MWVjLTgzMTEtZTU5YzNhYTliMmM1XkEyXkFqcGdeQXVyMjg1NTU5MTU@._V1_SY1000_CR0,0,687,1000_AL_.jpg",El Cazador De Pajaros
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Cazador De Pajaros" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE5MWUyODQtMjMyNy00MWVjLTgzMTEtZTU5YzNhYTliMmM1XkEyXkFqcGdeQXVyMjg1NTU5MTU@._V1_SY1000_CR0,0,687,1000_AL_.jpg" group-title="Movies: Spanish",El Cazador De Pajaros
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35353.mp4
-#EXTINF:-1 tvg-name="El Cocinero De Los últimos Deseos" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU0ZDBiYmEtODVjNy00ZWM0LWJkYTgtYTY1YTkxZDllMzE0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SY1000_CR0,0,706,1000_AL_.jpg",El Cocinero De Los últimos Deseos
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Cocinero De Los últimos Deseos" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU0ZDBiYmEtODVjNy00ZWM0LWJkYTgtYTY1YTkxZDllMzE0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SY1000_CR0,0,706,1000_AL_.jpg" group-title="Movies: Spanish",El Cocinero De Los últimos Deseos
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35354.mp4
-#EXTINF:-1 tvg-name="El Misterio Del Dragón" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://pics.filmaffinity.com/the_mystery_of_the_dragon_seal-980888125-large.jpg",El Misterio Del Dragón
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Misterio Del Dragón" tvg-logo="https://pics.filmaffinity.com/the_mystery_of_the_dragon_seal-980888125-large.jpg" group-title="Movies: Spanish",El Misterio Del Dragón
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35355.mp4
-#EXTINF:-1 tvg-name="Ghostland (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2ZjMwZDMtYWU4NS00NWFjLTg1MzQtNWFjZDlmOTQ4YThkXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Ghostland (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ghostland (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2ZjMwZDMtYWU4NS00NWFjLTg1MzQtNWFjZDlmOTQ4YThkXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Ghostland (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35356.mp4
-#EXTINF:-1 tvg-name="Grimsey (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQwMzFiYmQtNzExOC00MTY5LWFlNTctNDMyM2FhZjViZjA5XkEyXkFqcGdeQXVyMjI4NzE1NDE@._V1_SY1000_CR0,0,699,1000_AL_.jpg",Grimsey (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Grimsey (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQwMzFiYmQtNzExOC00MTY5LWFlNTctNDMyM2FhZjViZjA5XkEyXkFqcGdeQXVyMjI4NzE1NDE@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="Movies: Spanish",Grimsey (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35357.mp4
-#EXTINF:-1 tvg-name="Historia De Un Matrimonio" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Historia De Un Matrimonio
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Historia De Un Matrimonio" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",Historia De Un Matrimonio
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35358.mp4
-#EXTINF:-1 tvg-name="Hotel Bombay (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJlZWY2YjYtZGIxMy00MDEwLTliNzMtZGM3MDQ1NzlmNDY1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg",Hotel Bombay (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Hotel Bombay (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJlZWY2YjYtZGIxMy00MDEwLTliNzMtZGM3MDQ1NzlmNDY1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Hotel Bombay (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35359.mp4
-#EXTINF:-1 tvg-name="La Casa Del Terror" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODczNzBhOWMtZGNlOS00YjBhLWI2ZDgtMzA2MjFkZmJhNTNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",La Casa Del Terror
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Casa Del Terror" tvg-logo="https://m.media-amazon.com/images/M/MV5BODczNzBhOWMtZGNlOS00YjBhLWI2ZDgtMzA2MjFkZmJhNTNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",La Casa Del Terror
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35360.mp4
-#EXTINF:-1 tvg-name="Litus (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZiOGE2OTUtNWEzYS00ZTllLWEzMDEtNTY2NTg5MTllNjRhXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,699,1000_AL_.jpg",Litus (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Litus (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZiOGE2OTUtNWEzYS00ZTllLWEzMDEtNTY2NTg5MTllNjRhXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="Movies: Spanish",Litus (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35361.mp4
-#EXTINF:-1 tvg-name="Noche De Bodas" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,670,1000_AL_.jpg",Noche De Bodas
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Noche De Bodas" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,670,1000_AL_.jpg" group-title="Movies: Spanish",Noche De Bodas
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35362.mp4
-#EXTINF:-1 tvg-name="Quien A Hierro Mata" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M5YWE1ZGUtYTE1Zi00YTllLTg4OTktOTc1ZTkwZDIwYmE2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Quien A Hierro Mata
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Quien A Hierro Mata" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M5YWE1ZGUtYTE1Zi00YTllLTg4OTktOTc1ZTkwZDIwYmE2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",Quien A Hierro Mata
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35363.mp4
-#EXTINF:-1 tvg-name="The Informer (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyYTgxYmYtNjg3My00YzI4LWJlZWItYmZhZGEyYTYxNWY3XkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_SY1000_CR0,0,682,1000_AL_.jpg",The Informer (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Informer (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyYTgxYmYtNjg3My00YzI4LWJlZWItYmZhZGEyYTYxNWY3XkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_SY1000_CR0,0,682,1000_AL_.jpg" group-title="Movies: Spanish",The Informer (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35364.mp4
-#EXTINF:-1 tvg-name="The Poison Rose (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NDkwNDQ5N15BMl5BanBnXkFtZTgwOTM2NTcwODM@._V1_.jpg",The Poison Rose (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Poison Rose (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NDkwNDQ5N15BMl5BanBnXkFtZTgwOTM2NTcwODM@._V1_.jpg" group-title="Movies: Spanish",The Poison Rose (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35365.mp4
-#EXTINF:-1 tvg-name="Vivir Dos Veces" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJhOWIzMGUtZjRlNS00ODBmLWFlNDktYjhhNzY1Mjg1ODJhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Vivir Dos Veces
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Vivir Dos Veces" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJhOWIzMGUtZjRlNS00ODBmLWFlNDktYjhhNzY1Mjg1ODJhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",Vivir Dos Veces
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35366.mp4
-#EXTINF:-1 tvg-name="Zombieland Mata Y Remata" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg",Zombieland Mata Y Remata
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zombieland Mata Y Remata" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Zombieland Mata Y Remata
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35367.mp4
-#EXTINF:-1 tvg-name="1898 Los Ultimos De Filipinas (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJkYzNlYzAtNTk0NC00YzIwLTljZDAtZWQyZTg0OTUxYTg2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,700,1000_AL_.jpg",1898 Los Ultimos De Filipinas (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="1898 Los Ultimos De Filipinas (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJkYzNlYzAtNTk0NC00YzIwLTljZDAtZWQyZTg0OTUxYTg2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,700,1000_AL_.jpg" group-title="Movies: Spanish",1898 Los Ultimos De Filipinas (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35467.mp4
-#EXTINF:-1 tvg-name="Ciudad Sin Ley (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515NhlFQ7yL._SY445_.jpg",Ciudad Sin Ley (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ciudad Sin Ley (Multi A/S)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515NhlFQ7yL._SY445_.jpg" group-title="Movies: Spanish",Ciudad Sin Ley (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35469.mp4
-#EXTINF:-1 tvg-name="El Parque Magico (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SY1000_CR0,0,640,1000_AL_.jpg",El Parque Magico (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Parque Magico (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SY1000_CR0,0,640,1000_AL_.jpg" group-title="Movies: Spanish",El Parque Magico (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35471.mp4
-#EXTINF:-1 tvg-name="El Hijo (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMyZDAwZmYtOTUxNC00ODc0LThkZTYtMGQwYzYwZmZhNDgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",El Hijo (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Hijo (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMyZDAwZmYtOTUxNC00ODc0LThkZTYtMGQwYzYwZmZhNDgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",El Hijo (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35470.mp4
-#EXTINF:-1 tvg-name="Escape Plan 2 Hades (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4NjA0MjUyMF5BMl5BanBnXkFtZTgwMTEzNDQ1NTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg",Escape Plan 2 Hades (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Escape Plan 2 Hades (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4NjA0MjUyMF5BMl5BanBnXkFtZTgwMTEzNDQ1NTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Movies: Spanish",Escape Plan 2 Hades (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35472.mp4
-#EXTINF:-1 tvg-name="La Espia Roja (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhMDZjZmQtNmJjYS00OWI0LTkxM2ItN2ExZTc3NzkxZmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg",La Espia Roja (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Espia Roja (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhMDZjZmQtNmJjYS00OWI0LTkxM2ItN2ExZTc3NzkxZmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",La Espia Roja (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35473.mp4
-#EXTINF:-1 tvg-name="Mirai Mi Hermana Pequeña (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc4NGJiOWUtOWNjOS00M2QzLWFlMmMtMTU3ODMzNWU5ODk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,684,1000_AL_.jpg",Mirai Mi Hermana Pequeña (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Mirai Mi Hermana Pequeña (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc4NGJiOWUtOWNjOS00M2QzLWFlMmMtMTU3ODMzNWU5ODk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,684,1000_AL_.jpg" group-title="Movies: Spanish",Mirai Mi Hermana Pequeña (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35474.mp4
-#EXTINF:-1 tvg-name="Monsters At Large (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM1ZDgyMjEtZjkxNy00MjY2LWE5NDYtMTY5NmUxZjc0ZTk0XkEyXkFqcGdeQXVyMzA1NzMzMzE@._V1_.jpg",Monsters At Large (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Monsters At Large (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM1ZDgyMjEtZjkxNy00MjY2LWE5NDYtMTY5NmUxZjc0ZTk0XkEyXkFqcGdeQXVyMzA1NzMzMzE@._V1_.jpg" group-title="Movies: Spanish",Monsters At Large (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35475.mp4
-#EXTINF:-1 tvg-name="Que Te Juegas (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJhY2Y3YTktYThhYS00MjkwLWE0ZGYtMjk3MDMzYmMyNzQzXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg",Que Te Juegas (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Que Te Juegas (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJhY2Y3YTktYThhYS00MjkwLWE0ZGYtMjk3MDMzYmMyNzQzXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg" group-title="Movies: Spanish",Que Te Juegas (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35476.mp4
-#EXTINF:-1 tvg-name="Terminal (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEzOGVmNWQtZDBiMC00OTk4LTg3OWQtMzc2MzgxNjlkY2JjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg",Terminal (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Terminal (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEzOGVmNWQtZDBiMC00OTk4LTg3OWQtMzc2MzgxNjlkY2JjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Terminal (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35482.mp4
-#EXTINF:-1 tvg-name="Un Hombre Llamado Ove (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZlYjBkZWYtMmUyZS00ZmFmLThlMGQtYjdiMzFlNDkxNjZhL2ltYWdlXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY1000_CR0,0,679,1000_AL_.jpg",Un Hombre Llamado Ove (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Un Hombre Llamado Ove (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZlYjBkZWYtMmUyZS00ZmFmLThlMGQtYjdiMzFlNDkxNjZhL2ltYWdlXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY1000_CR0,0,679,1000_AL_.jpg" group-title="Movies: Spanish",Un Hombre Llamado Ove (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35477.mp4
-#EXTINF:-1 tvg-name="Un Plus Une (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYzZWU5MzAtMDZmMy00ZmJiLThhOGMtYmZiMmUxZGEzYzRiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_CR0,0,736,1000_AL_.jpg",Un Plus Une (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Un Plus Une (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYzZWU5MzAtMDZmMy00ZmJiLThhOGMtYmZiMmUxZGEzYzRiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_CR0,0,736,1000_AL_.jpg" group-title="Movies: Spanish",Un Plus Une (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35478.mp4
-#EXTINF:-1 tvg-name="Un Pueblo y Su Rey (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE1NTc0NzQtMWQ3ZC00NjdjLThiZDAtZmFjZDliNTQ5Njg5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg",Un Pueblo y Su Rey (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Un Pueblo y Su Rey (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE1NTc0NzQtMWQ3ZC00NjdjLThiZDAtZmFjZDliNTQ5Njg5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Un Pueblo y Su Rey (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35479.mp4
-#EXTINF:-1 tvg-name="Un Seductor a La Francesa (Multi A/S)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MxNTUwMzctMzlhYS00OWIwLTk2NDUtNGVjNmM5NzY1Y2I5XkEyXkFqcGdeQXVyNTM4MjgzNzc@._V1_SY1000_CR0,0,736,1000_AL_.jpg",Un Seductor a La Francesa (Multi A/S)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Un Seductor a La Francesa (Multi A/S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MxNTUwMzctMzlhYS00OWIwLTk2NDUtNGVjNmM5NzY1Y2I5XkEyXkFqcGdeQXVyNTM4MjgzNzc@._V1_SY1000_CR0,0,736,1000_AL_.jpg" group-title="Movies: Spanish",Un Seductor a La Francesa (Multi A/S)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35481.mp4
-#EXTINF:-1 tvg-name="Perfectos Desconocidos" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMzMThjZDgtYjhmNy00M2M3LWJlMGQtMzA5NTlhNWNmMDU3XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_SX700_AL_.jpg",Perfectos Desconocidos
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Perfectos Desconocidos" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMzMThjZDgtYjhmNy00M2M3LWJlMGQtMzA5NTlhNWNmMDU3XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_SX700_AL_.jpg" group-title="Movies: Spanish",Perfectos Desconocidos
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35545.mp4
-#EXTINF:-1 tvg-name="Rambo Last Blood (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SY1000_CR0,0,677,1000_AL_.jpg",Rambo Last Blood (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Rambo Last Blood (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SY1000_CR0,0,677,1000_AL_.jpg" group-title="Movies: Spanish",Rambo Last Blood (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35547.mp4
-#EXTINF:-1 tvg-name="Senderos.De.Honor.2019" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SY1000_CR0,0,677,1000_AL_.jpg",Senderos.De.Honor.2019
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Senderos.De.Honor.2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SY1000_CR0,0,677,1000_AL_.jpg" group-title="Movies: Spanish",Senderos.De.Honor.2019
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35548.mp4
-#EXTINF:-1 tvg-name="Te Presento A Sofia" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkNTc0MWEtMGI4ZC00NjYzLThhODYtN2UyZjBiMWMxZmM1XkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_.jpg",Te Presento A Sofia
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Te Presento A Sofia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkNTc0MWEtMGI4ZC00NjYzLThhODYtN2UyZjBiMWMxZmM1XkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_.jpg" group-title="Movies: Spanish",Te Presento A Sofia
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35549.mp4
-#EXTINF:-1 tvg-name="Terra Willy Planeta Desconocido" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQyMWMwZjItNTAyZS00ZmMxLWI4N2UtMzM4MzQ2NzBhNmI2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX749_CR0,0,749,999_AL_.jpg",Terra Willy Planeta Desconocido
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Terra Willy Planeta Desconocido" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQyMWMwZjItNTAyZS00ZmMxLWI4N2UtMzM4MzQ2NzBhNmI2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX749_CR0,0,749,999_AL_.jpg" group-title="Movies: Spanish",Terra Willy Planeta Desconocido
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35550.mp4
-#EXTINF:-1 tvg-name="The Domestics (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNhZjkzMDgtMDAyMC00NWY2LWIyOTMtZDM5NGIyNDNjMzE2XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg",The Domestics (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Domestics (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNhZjkzMDgtMDAyMC00NWY2LWIyOTMtZDM5NGIyNDNjMzE2XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",The Domestics (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35551.mp4
-#EXTINF:-1 tvg-name="The Laundromat (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNhZjkzMDgtMDAyMC00NWY2LWIyOTMtZDM5NGIyNDNjMzE2XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg",The Laundromat (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Laundromat (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNhZjkzMDgtMDAyMC00NWY2LWIyOTMtZDM5NGIyNDNjMzE2XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",The Laundromat (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35552.mp4
-#EXTINF:-1 tvg-name="The Take Down (Spanis)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBlNDFkZmItYmUwMS00MzhhLTg4MDktNTk0NTIzN2IzNTA5XkEyXkFqcGdeQXVyNjgxMzY0MzA@._V1_SY1000_CR0,0,687,1000_AL_.jpg",The Take Down (Spanis)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Take Down (Spanis)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBlNDFkZmItYmUwMS00MzhhLTg4MDktNTk0NTIzN2IzNTA5XkEyXkFqcGdeQXVyNjgxMzY0MzA@._V1_SY1000_CR0,0,687,1000_AL_.jpg" group-title="Movies: Spanish",The Take Down (Spanis)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35553.mp4
-#EXTINF:-1 tvg-name="Tu Mejor Amigo Un Nuevo Viaje (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRhMWY0ODMtMmM3OC00ZGRmLWIyZjktZGQ0ZGE4MzcyZWE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,631,1000_AL_.jpg",Tu Mejor Amigo Un Nuevo Viaje (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tu Mejor Amigo Un Nuevo Viaje (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRhMWY0ODMtMmM3OC00ZGRmLWIyZjktZGQ0ZGE4MzcyZWE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,631,1000_AL_.jpg" group-title="Movies: Spanish",Tu Mejor Amigo Un Nuevo Viaje (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35554.mp4
-#EXTINF:-1 tvg-name="Un Atardecer En La Toscana (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc2YzlkYjMtZjFjZi00NWRhLThkMWItMzhmNzMzOGM5ZjkzXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg",Un Atardecer En La Toscana (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Un Atardecer En La Toscana (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc2YzlkYjMtZjFjZi00NWRhLThkMWItMzhmNzMzOGM5ZjkzXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg" group-title="Movies: Spanish",Un Atardecer En La Toscana (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35555.mp4
-#EXTINF:-1 tvg-name="Una Pequena Mentira (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MjFiM2EtNmIxMy00NjIwLWFiNjctOTAxODBkMTNlZDllXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX736_CR0,0,736,999_AL_.jpg",Una Pequena Mentira (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Una Pequena Mentira (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MjFiM2EtNmIxMy00NjIwLWFiNjctOTAxODBkMTNlZDllXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX736_CR0,0,736,999_AL_.jpg" group-title="Movies: Spanish",Una Pequena Mentira (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35556.mp4
-#EXTINF:-1 tvg-name="Una Senal Invisible (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNTgzMDgxNF5BMl5BanBnXkFtZTgwNzAxMzcwMzE@._V1_.jpg",Una Senal Invisible (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Una Senal Invisible (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwNTgzMDgxNF5BMl5BanBnXkFtZTgwNzAxMzcwMzE@._V1_.jpg" group-title="Movies: Spanish",Una Senal Invisible (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35557.mp4
-#EXTINF:-1 tvg-name="Vengadores Endgame (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Vengadores Endgame (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Vengadores Endgame (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Vengadores Endgame (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35558.mp4
-#EXTINF:-1 tvg-name="Animales Fantásticos Los Crimenes De Grindelwald" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVlMDI5N2UtZTIyMC00NjZkLWI5Y2QtODM5NGE5MzA0NmVjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg",Animales Fantásticos Los Crimenes De Grindelwald
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Animales Fantásticos Los Crimenes De Grindelwald" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVlMDI5N2UtZTIyMC00NjZkLWI5Y2QtODM5NGE5MzA0NmVjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg" group-title="Movies: Spanish",Animales Fantásticos Los Crimenes De Grindelwald
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35847.mp4
-#EXTINF:-1 tvg-name="Bleeding Steel (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE5MDkyNTktMjI0YS00OTRkLWEzNzAtZTJmN2Y5NzUyMmI2XkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_SY1000_CR0,0,714,1000_AL_.jpg",Bleeding Steel (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bleeding Steel (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE5MDkyNTktMjI0YS00OTRkLWEzNzAtZTJmN2Y5NzUyMmI2XkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_SY1000_CR0,0,714,1000_AL_.jpg" group-title="Movies: Spanish",Bleeding Steel (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35848.mp4
-#EXTINF:-1 tvg-name="Colette (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg5M2MxYzAtZjUwMi00MzRjLTkxNTItZmNjYzUxZjI3YzI3XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg",Colette (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Colette (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg5M2MxYzAtZjUwMi00MzRjLTkxNTItZmNjYzUxZjI3YzI3XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Colette (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35849.mp4
-#EXTINF:-1 tvg-name="Deja Vu (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_.jpg",Deja Vu (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Deja Vu (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_.jpg" group-title="Movies: Spanish",Deja Vu (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35850.mp4
-#EXTINF:-1 tvg-name="Detective Conan El Caso Zero" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMzMDA3MDYtNTNlMS00YTc3LTlkYmItYjViMjZjY2U1YzNmXkEyXkFqcGdeQXVyMjY2OTU0MTg@._V1_.jpg",Detective Conan El Caso Zero
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Detective Conan El Caso Zero" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMzMDA3MDYtNTNlMS00YTc3LTlkYmItYjViMjZjY2U1YzNmXkEyXkFqcGdeQXVyMjY2OTU0MTg@._V1_.jpg" group-title="Movies: Spanish",Detective Conan El Caso Zero
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35851.mp4
-#EXTINF:-1 tvg-name="El Angel" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYzYWI1MTctN2E1Mi00OTUwLThjYTgtY2JhMjRiNDc3YWZjXkEyXkFqcGdeQXVyODE0MDY3NzY@._V1_SY1000_SX675_AL_.jpg",El Angel
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Angel" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYzYWI1MTctN2E1Mi00OTUwLThjYTgtY2JhMjRiNDc3YWZjXkEyXkFqcGdeQXVyODE0MDY3NzY@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",El Angel
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35852.mp4
-#EXTINF:-1 tvg-name="The Hard Way. (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyYjFmNjYtOGY5OC00YjcxLTkxOTAtNzNiNTM0YTE5Nzk4XkEyXkFqcGdeQXVyOTE1NDAyNw@@._V1_SY1000_CR0,0,713,1000_AL_.jpg",The Hard Way. (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Hard Way. (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyYjFmNjYtOGY5OC00YjcxLTkxOTAtNzNiNTM0YTE5Nzk4XkEyXkFqcGdeQXVyOTE1NDAyNw@@._V1_SY1000_CR0,0,713,1000_AL_.jpg" group-title="Movies: Spanish",The Hard Way. (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35853.mp4
-#EXTINF:-1 tvg-name="Erase Una Vez Deadpool" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg",Erase Una Vez Deadpool
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Erase Una Vez Deadpool" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg" group-title="Movies: Spanish",Erase Una Vez Deadpool
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35854.mp4
-#EXTINF:-1 tvg-name="Escarlata y Negro" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyNzUzMDYxMV5BMl5BanBnXkFtZTcwMDg4MjAzMQ@@._V1_.jpg",Escarlata y Negro
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Escarlata y Negro" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyNzUzMDYxMV5BMl5BanBnXkFtZTcwMDg4MjAzMQ@@._V1_.jpg" group-title="Movies: Spanish",Escarlata y Negro
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35855.mp4
-#EXTINF:-1 tvg-name="La Cruda Realidad" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2MTM2OTUwNl5BMl5BanBnXkFtZTcwNTgwNTE0Mg@@._V1_.jpg",La Cruda Realidad
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Cruda Realidad" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2MTM2OTUwNl5BMl5BanBnXkFtZTcwNTgwNTE0Mg@@._V1_.jpg" group-title="Movies: Spanish",La Cruda Realidad
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35856.mp4
-#EXTINF:-1 tvg-name="Mortal Engines" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_SY1000_CR0,0,631,1000_AL_.jpg",Mortal Engines
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Mortal Engines" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_SY1000_CR0,0,631,1000_AL_.jpg" group-title="Movies: Spanish",Mortal Engines
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35857.mp4
-#EXTINF:-1 tvg-name="O.G (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODkzNDY1NjMtYjkwOS00OTJkLTk2YzYtZDI2Yzk2N2ExZWQxXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_SX675_AL_.jpg",O.G (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="O.G (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODkzNDY1NjMtYjkwOS00OTJkLTk2YzYtZDI2Yzk2N2ExZWQxXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",O.G (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35858.mp4
-#EXTINF:-1 tvg-name="or Destructivo" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODkzNDY1NjMtYjkwOS00OTJkLTk2YzYtZDI2Yzk2N2ExZWQxXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_SX675_AL_.jpg",or Destructivo
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="or Destructivo" tvg-logo="https://m.media-amazon.com/images/M/MV5BODkzNDY1NjMtYjkwOS00OTJkLTk2YzYtZDI2Yzk2N2ExZWQxXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",or Destructivo
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35859.mp4
-#EXTINF:-1 tvg-name="Padeton" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyZDUxODQtZjBhMy00NmQ5LTg5MmMtNGUxZjhkODk1NjdiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Padeton
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Padeton" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyZDUxODQtZjBhMy00NmQ5LTg5MmMtNGUxZjhkODk1NjdiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",Padeton
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35860.mp4
-#EXTINF:-1 tvg-name="Paris Es Nuestro" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjE0OTkzNmUtNDQxOS00MzY5LWE2M2MtZTRmOTRmNDU3ZmVkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg",Paris Es Nuestro
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Paris Es Nuestro" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjE0OTkzNmUtNDQxOS00MzY5LWE2M2MtZTRmOTRmNDU3ZmVkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg" group-title="Movies: Spanish",Paris Es Nuestro
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35861.mp4
-#EXTINF:-1 tvg-name="Proteccion Peligrosa" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIxOTVhMzctZGEyNi00OGNlLTkwZjUtNTdlMDE5YzMxMDBiXkEyXkFqcGdeQXVyMTU2ODA1MzI@._V1_SY1000_CR0,0,692,1000_AL_.jpg",Proteccion Peligrosa
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Proteccion Peligrosa" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIxOTVhMzctZGEyNi00OGNlLTkwZjUtNTdlMDE5YzMxMDBiXkEyXkFqcGdeQXVyMTU2ODA1MzI@._V1_SY1000_CR0,0,692,1000_AL_.jpg" group-title="Movies: Spanish",Proteccion Peligrosa
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35862.mp4
-#EXTINF:-1 tvg-name="Senorita" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE2ZGUwYjQtMTAxNS00YzcyLWIwYzItZTkzZWI3ZjQ4NzdhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Senorita
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Senorita" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE2ZGUwYjQtMTAxNS00YzcyLWIwYzItZTkzZWI3ZjQ4NzdhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",Senorita
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35863.mp4
-#EXTINF:-1 tvg-name="Tragedia En Las Aulas" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SY1000_SX800_AL_.jpg",Tragedia En Las Aulas
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tragedia En Las Aulas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SY1000_SX800_AL_.jpg" group-title="Movies: Spanish",Tragedia En Las Aulas
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35864.mp4
-#EXTINF:-1 tvg-name="Tu Hijo" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzlkMTEzNTMtMDg2MS00NTQ4LWEwMzAtNDI0OTlkNjc5NWYwXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,706,1000_AL_.jpg",Tu Hijo
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tu Hijo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzlkMTEzNTMtMDg2MS00NTQ4LWEwMzAtNDI0OTlkNjc5NWYwXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,706,1000_AL_.jpg" group-title="Movies: Spanish",Tu Hijo
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35865.mp4
-#EXTINF:-1 tvg-name="Ali" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA3OTUxNTktN2FlNC00NGUyLWI1NDktY2FlZTc5MDlmOGFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",Ali
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ali" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA3OTUxNTktN2FlNC00NGUyLWI1NDktY2FlZTc5MDlmOGFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies: Spanish",Ali
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35885.mp4
-#EXTINF:-1 tvg-name="Burning (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNmYjI1M2UtNDdkNi00MTgwLWFiZmYtODcxNWZhM2Y2NWFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,700,1000_AL_.jpg",Burning (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Burning (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNmYjI1M2UtNDdkNi00MTgwLWFiZmYtODcxNWZhM2Y2NWFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,700,1000_AL_.jpg" group-title="Movies: Spanish",Burning (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35886.mp4
-#EXTINF:-1 tvg-name="Crazy Ri Asians Locente Millonarios" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Crazy Ri Asians Locente Millonarios
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Crazy Ri Asians Locente Millonarios" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Crazy Ri Asians Locente Millonarios
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35887.mp4
-#EXTINF:-1 tvg-name="Desaparecer" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2MDY1MjUyOF5BMl5BanBnXkFtZTgwNjQyOTYwOTE@._V1_SY1000_CR0,0,699,1000_AL_.jpg",Desaparecer
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Desaparecer" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2MDY1MjUyOF5BMl5BanBnXkFtZTgwNjQyOTYwOTE@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="Movies: Spanish",Desaparecer
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35888.mp4
-#EXTINF:-1 tvg-name="Divorcio Mortal" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5NjlmMWUtMjE3Ny00ZDZjLTliOWItNTE1N2E1ODEyNzViXkEyXkFqcGdeQXVyMTQyNDk2NzE@._V1_SY1000_CR0,0,692,1000_AL_.jpg",Divorcio Mortal
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Divorcio Mortal" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5NjlmMWUtMjE3Ny00ZDZjLTliOWItNTE1N2E1ODEyNzViXkEyXkFqcGdeQXVyMTQyNDk2NzE@._V1_SY1000_CR0,0,692,1000_AL_.jpg" group-title="Movies: Spanish",Divorcio Mortal
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35889.mp4
-#EXTINF:-1 tvg-name="El Misterio De Mielle" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQwOGNlYzUtMjlmMy00ZDhkLTk5MGEtY2Y3NDQzMzhhMWYzXkEyXkFqcGdeQXVyMjUyODE2ODM@._V1_SY1000_CR0,0,681,1000_AL_.jpg",El Misterio De Mielle
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Misterio De Mielle" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQwOGNlYzUtMjlmMy00ZDhkLTk5MGEtY2Y3NDQzMzhhMWYzXkEyXkFqcGdeQXVyMjUyODE2ODM@._V1_SY1000_CR0,0,681,1000_AL_.jpg" group-title="Movies: Spanish",El Misterio De Mielle
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35890.mp4
-#EXTINF:-1 tvg-name="El Rey" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkNzNlMzMtMjM5ZS00MWYzLWFmMmUtMjE1ODM3NjBlODA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg",El Rey
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Rey" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkNzNlMzMtMjM5ZS00MWYzLWFmMmUtMjE1ODM3NjBlODA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",El Rey
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35891.mp4
-#EXTINF:-1 tvg-name="Falso Diagnostico" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQzNjhkOWYtMTUwNC00OWI0LTkwNjctMjZiNjEwN2QxZTE3XkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_SY1000_SX675_AL_.jpg",Falso Diagnostico
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Falso Diagnostico" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQzNjhkOWYtMTUwNC00OWI0LTkwNjctMjZiNjEwN2QxZTE3XkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Falso Diagnostico
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35892.mp4
-#EXTINF:-1 tvg-name="Historias De Una Indecisa" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFlMzJlYjQtNzc5ZC00YmVmLTk1NDUtZmU2MGM2YjYwNDYyL2ltYWdlXkEyXkFqcGdeQXVyNzIzODE2Nzk@._V1_SY1000_SX750_AL_.jpg",Historias De Una Indecisa
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Historias De Una Indecisa" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFlMzJlYjQtNzc5ZC00YmVmLTk1NDUtZmU2MGM2YjYwNDYyL2ltYWdlXkEyXkFqcGdeQXVyNzIzODE2Nzk@._V1_SY1000_SX750_AL_.jpg" group-title="Movies: Spanish",Historias De Una Indecisa
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35893.mp4
-#EXTINF:-1 tvg-name="Intenciones Ocuas" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiY2ZkZGEtZWZjZi00ZDY5LTk0OTAtMGRmOTI3NzY2MTVlXkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_SY1000_CR0,0,802,1000_AL_.jpg",Intenciones Ocuas
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Intenciones Ocuas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiY2ZkZGEtZWZjZi00ZDY5LTk0OTAtMGRmOTI3NzY2MTVlXkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_SY1000_CR0,0,802,1000_AL_.jpg" group-title="Movies: Spanish",Intenciones Ocuas
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35894.mp4
-#EXTINF:-1 tvg-name="La Buena Esposa Castellanno" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA2Yzk4YjItZmU5OS00ZjFjLTlkNTEtMzJjZDVlOGY0OWRlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg",La Buena Esposa Castellanno
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Buena Esposa Castellanno" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA2Yzk4YjItZmU5OS00ZjFjLTlkNTEtMzJjZDVlOGY0OWRlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",La Buena Esposa Castellanno
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35895.mp4
-#EXTINF:-1 tvg-name="Las Separadoras The Breaker Upperers" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1Mzg4OTItN2I0Yi00OTlhLWI4NmUtOTU3OThiNmUxNGNlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_CR0,0,702,1000_AL_.jpg",Las Separadoras The Breaker Upperers
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Las Separadoras The Breaker Upperers" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1Mzg4OTItN2I0Yi00OTlhLWI4NmUtOTU3OThiNmUxNGNlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_CR0,0,702,1000_AL_.jpg" group-title="Movies: Spanish",Las Separadoras The Breaker Upperers
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35896.mp4
-#EXTINF:-1 tvg-name="Las Separadoras The Breaker Upperers 2" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1Mzg4OTItN2I0Yi00OTlhLWI4NmUtOTU3OThiNmUxNGNlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_CR0,0,702,1000_AL_.jpg",Las Separadoras The Breaker Upperers 2
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Las Separadoras The Breaker Upperers 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1Mzg4OTItN2I0Yi00OTlhLWI4NmUtOTU3OThiNmUxNGNlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_CR0,0,702,1000_AL_.jpg" group-title="Movies: Spanish",Las Separadoras The Breaker Upperers 2
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35897.mp4
-#EXTINF:-1 tvg-name="Los Secretos De Mi Marido" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdjODM3ODgtNGE4Ny00MzBmLTk3YzgtYjk4YzVkNzU1ZDIyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTI4MjQyNTI@._V1_SY1000_CR0,0,647,1000_AL_.jpg",Los Secretos De Mi Marido
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Los Secretos De Mi Marido" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdjODM3ODgtNGE4Ny00MzBmLTk3YzgtYjk4YzVkNzU1ZDIyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTI4MjQyNTI@._V1_SY1000_CR0,0,647,1000_AL_.jpg" group-title="Movies: Spanish",Los Secretos De Mi Marido
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35898.mp4
-#EXTINF:-1 tvg-name="Master Of The Drunken Fist Beggar So" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmODU0YmEtMzU3Zi00NjdlLWJhNjktMDUxOWIxNmYyMmE3XkEyXkFqcGdeQXVyNzIyMTIyOTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg",Master Of The Drunken Fist Beggar So
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Master Of The Drunken Fist Beggar So" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmODU0YmEtMzU3Zi00NjdlLWJhNjktMDUxOWIxNmYyMmE3XkEyXkFqcGdeQXVyNzIyMTIyOTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg" group-title="Movies: Spanish",Master Of The Drunken Fist Beggar So
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35899.mp4
-#EXTINF:-1 tvg-name="Matar o Morir Peppermint" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWVlMjQ3MjItOWE3YS00YTYwLWE0ZDMtZWMyZWY1NzkxNWIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg",Matar o Morir Peppermint
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Matar o Morir Peppermint" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWVlMjQ3MjItOWE3YS00YTYwLWE0ZDMtZWMyZWY1NzkxNWIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Matar o Morir Peppermint
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35900.mp4
-#EXTINF:-1 tvg-name="Niebla En Agosto" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmMDM4ZTYtMGViZC00NTJhLTk3ZjMtODg4NDMxOGY0NGExXkEyXkFqcGdeQXVyMjEwNTYxNDY@._V1_SY1000_CR0,0,706,1000_AL_.jpg",Niebla En Agosto
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Niebla En Agosto" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmMDM4ZTYtMGViZC00NTJhLTk3ZjMtODg4NDMxOGY0NGExXkEyXkFqcGdeQXVyMjEwNTYxNDY@._V1_SY1000_CR0,0,706,1000_AL_.jpg" group-title="Movies: Spanish",Niebla En Agosto
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35901.mp4
-#EXTINF:-1 tvg-name="Paris Es Nuestro" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjE0OTkzNmUtNDQxOS00MzY5LWE2M2MtZTRmOTRmNDU3ZmVkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg",Paris Es Nuestro
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Paris Es Nuestro" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjE0OTkzNmUtNDQxOS00MzY5LWE2M2MtZTRmOTRmNDU3ZmVkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg" group-title="Movies: Spanish",Paris Es Nuestro
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35902.mp4
-#EXTINF:-1 tvg-name="Sin Fin" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI5NWQzOWItODA1Mi00ZDEzLTgwYWItMDhjOTFiYmJlYzY2XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,706,1000_AL_.jpg",Sin Fin
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Sin Fin" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI5NWQzOWItODA1Mi00ZDEzLTgwYWItMDhjOTFiYmJlYzY2XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,706,1000_AL_.jpg" group-title="Movies: Spanish",Sin Fin
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35903.mp4
-#EXTINF:-1 tvg-name="Slasher (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTRkMjRmYmMtZGMxNy00YTRjLWFkOWItYmIzODExMmIwZWM1XkEyXkFqcGdeQXVyODcwODYxNTU@._V1_SY1000_CR0,0,655,1000_AL_.jpg",Slasher (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Slasher (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTRkMjRmYmMtZGMxNy00YTRjLWFkOWItYmIzODExMmIwZWM1XkEyXkFqcGdeQXVyODcwODYxNTU@._V1_SY1000_CR0,0,655,1000_AL_.jpg" group-title="Movies: Spanish",Slasher (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35904.mp4
-#EXTINF:-1 tvg-name="The Female Brain (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwOWVmZTAtMjM3MC00MjBlLWI3YmItYzBlYzc4Nzk3Y2E5XkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_SX675_AL_.jpg",The Female Brain (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Female Brain (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwOWVmZTAtMjM3MC00MjBlLWI3YmItYzBlYzc4Nzk3Y2E5XkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",The Female Brain (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35905.mp4
-#EXTINF:-1 tvg-name="The Unthinkable (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIwNzE0OWQtMTI2OS00OGUzLTg2YjktZWZjOWJmODc2M2UwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",The Unthinkable (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Unthinkable (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIwNzE0OWQtMTI2OS00OGUzLTg2YjktZWZjOWJmODc2M2UwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="Movies: Spanish",The Unthinkable (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35906.mp4
-#EXTINF:-1 tvg-name="Tonight She es" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNzk3MTc5M15BMl5BanBnXkFtZTgwOTMzNTQwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Tonight She es
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tonight She es" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNzk3MTc5M15BMl5BanBnXkFtZTgwOTMzNTQwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Tonight She es
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35907.mp4
-#EXTINF:-1 tvg-name="Una Receta Filiar" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNzk3MTc5M15BMl5BanBnXkFtZTgwOTMzNTQwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Una Receta Filiar
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Una Receta Filiar" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNzk3MTc5M15BMl5BanBnXkFtZTgwOTMzNTQwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Una Receta Filiar
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35908.mp4
-#EXTINF:-1 tvg-name="Yo Kai Wat La Pelicula" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU3Yzc5ZTYtNDUzZi00ZTVmLWEwNTAtZGQzMDk4ZmM0N2IyXkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_SY999_CR0,0,706,999_AL_.jpg",Yo Kai Wat La Pelicula
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Yo Kai Wat La Pelicula" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU3Yzc5ZTYtNDUzZi00ZTVmLWEwNTAtZGQzMDk4ZmM0N2IyXkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_SY999_CR0,0,706,999_AL_.jpg" group-title="Movies: Spanish",Yo Kai Wat La Pelicula
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35909.mp4
-#EXTINF:-1 tvg-name="Aguila De Acero" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY3MWIzZGYtOTliMy00YzQzLTgwNjgtNjlkYTA2Y2Y5YTVkL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",Aguila De Acero
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Aguila De Acero" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY3MWIzZGYtOTliMy00YzQzLTgwNjgtNjlkYTA2Y2Y5YTVkL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg" group-title="Movies: Spanish",Aguila De Acero
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35943.mp4
-#EXTINF:-1 tvg-name="Alegria Tristeza" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg4MGRhOTEtNmZkOS00MDI3LWJiZjktNmY1ZTFkYzc3Nzg2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,703,1000_AL_.jpg",Alegria Tristeza
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Alegria Tristeza" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg4MGRhOTEtNmZkOS00MDI3LWJiZjktNmY1ZTFkYzc3Nzg2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,703,1000_AL_.jpg" group-title="Movies: Spanish",Alegria Tristeza
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35944.mp4
-#EXTINF:-1 tvg-name="Algunas Heridas Nunca Se Curan" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBiY2FmODAtNDk0MC00OTliLWEwZjQtMWFhOTY1NTgyMWNjXkEyXkFqcGdeQXVyODQxNDUwMzI@._V1_.jpg",Algunas Heridas Nunca Se Curan
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Algunas Heridas Nunca Se Curan" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBiY2FmODAtNDk0MC00OTliLWEwZjQtMWFhOTY1NTgyMWNjXkEyXkFqcGdeQXVyODQxNDUwMzI@._V1_.jpg" group-title="Movies: Spanish",Algunas Heridas Nunca Se Curan
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35945.avi
-#EXTINF:-1 tvg-name="Brigada 49" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyNDQ0NjAzMV5BMl5BanBnXkFtZTcwMjk2OTUyMQ@@._V1_.jpg",Brigada 49
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Brigada 49" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyNDQ0NjAzMV5BMl5BanBnXkFtZTcwMjk2OTUyMQ@@._V1_.jpg" group-title="Movies: Spanish",Brigada 49
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35946.mp4
-#EXTINF:-1 tvg-name="Cluver y Un Amor Peligroso" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRkMTg4OTItYTk0Mi00MTgwLWFlYjYtNWJkODE4MzljMWVjXkEyXkFqcGdeQXVyMjgzMzAzMjE@._V1_.jpg",Cluver y Un Amor Peligroso
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Cluver y Un Amor Peligroso" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRkMTg4OTItYTk0Mi00MTgwLWFlYjYtNWJkODE4MzljMWVjXkEyXkFqcGdeQXVyMjgzMzAzMjE@._V1_.jpg" group-title="Movies: Spanish",Cluver y Un Amor Peligroso
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35947.mp4
-#EXTINF:-1 tvg-name="Daredevil" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Daredevil
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Daredevil" tvg-logo="https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",Daredevil
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35948.avi
-#EXTINF:-1 tvg-name="El Arbol De La Sangre" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlhNmUwMDQtYzk0Zi00MjQ3LTg4YWQtMWI1NDQ0OGZmZjBiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",El Arbol De La Sangre
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Arbol De La Sangre" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlhNmUwMDQtYzk0Zi00MjQ3LTg4YWQtMWI1NDQ0OGZmZjBiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",El Arbol De La Sangre
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35949.avi
-#EXTINF:-1 tvg-name="El Destierro" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJlMGIzNDktYmQ3Yi00Mjk1LWI0NDgtNTNmNzYzZTM5NzJmXkEyXkFqcGdeQXVyMjIxNzI5Ng@@._V1_SY1000_CR0,0,707,1000_AL_.jpg",El Destierro
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Destierro" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJlMGIzNDktYmQ3Yi00Mjk1LWI0NDgtNTNmNzYzZTM5NzJmXkEyXkFqcGdeQXVyMjIxNzI5Ng@@._V1_SY1000_CR0,0,707,1000_AL_.jpg" group-title="Movies: Spanish",El Destierro
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35950.avi
-#EXTINF:-1 tvg-name="En Que Piensan Las Mujeres" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUyZWE5YmMtNDA2ZC00NzFlLTg0MzktOTgzYjA2ZWE3NmIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,707,1000_AL_.jpg",En Que Piensan Las Mujeres
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="En Que Piensan Las Mujeres" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUyZWE5YmMtNDA2ZC00NzFlLTg0MzktOTgzYjA2ZWE3NmIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,707,1000_AL_.jpg" group-title="Movies: Spanish",En Que Piensan Las Mujeres
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35951.mp4
-#EXTINF:-1 tvg-name="Lukas" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc1MWUzZDktZDg0OS00YThmLWIxMTUtMzU2NWEwZGVjZWM1XkEyXkFqcGdeQXVyNDY5MTYyNTQ@._V1_SY1000_CR0,0,707,1000_AL_.jpg",Lukas
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Lukas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc1MWUzZDktZDg0OS00YThmLWIxMTUtMzU2NWEwZGVjZWM1XkEyXkFqcGdeQXVyNDY5MTYyNTQ@._V1_SY1000_CR0,0,707,1000_AL_.jpg" group-title="Movies: Spanish",Lukas
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35952.mp4
-#EXTINF:-1 tvg-name="Maquia Una Historia De Amor Inmortal" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY4YmM0YjUtNTE0OC00NDgwLWE1ZmQtNDIyN2U2MjlhMjI2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",Maquia Una Historia De Amor Inmortal
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Maquia Una Historia De Amor Inmortal" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY4YmM0YjUtNTE0OC00NDgwLWE1ZmQtNDIyN2U2MjlhMjI2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg" group-title="Movies: Spanish",Maquia Una Historia De Amor Inmortal
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35953.avi
-#EXTINF:-1 tvg-name="Sword Art Online La Pelicula (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFiMDE1YTctOTM0NC00MTM2LWJjODAtODY5MmU5NjI0MjgwL2ltYWdlXkEyXkFqcGdeQXVyNTkzODg2MTQ@._V1_.jpg",Sword Art Online La Pelicula (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Sword Art Online La Pelicula (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFiMDE1YTctOTM0NC00MTM2LWJjODAtODY5MmU5NjI0MjgwL2ltYWdlXkEyXkFqcGdeQXVyNTkzODg2MTQ@._V1_.jpg" group-title="Movies: Spanish",Sword Art Online La Pelicula (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35954.mp4
-#EXTINF:-1 tvg-name="The Female Brain (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwOWVmZTAtMjM3MC00MjBlLWI3YmItYzBlYzc4Nzk3Y2E5XkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_SX675_AL_.jpg",The Female Brain (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Female Brain (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwOWVmZTAtMjM3MC00MjBlLWI3YmItYzBlYzc4Nzk3Y2E5XkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",The Female Brain (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35955.mp4
-#EXTINF:-1 tvg-name="The Hospital 2 (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBlODY2YWEtNDljYi00MzdjLWEzOWQtYmNmY2VmZjhmNjA3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTA2OTM2NDE@._V1_.jpg",The Hospital 2 (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="The Hospital 2 (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBlODY2YWEtNDljYi00MzdjLWEzOWQtYmNmY2VmZjhmNjA3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTA2OTM2NDE@._V1_.jpg" group-title="Movies: Spanish",The Hospital 2 (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35956.avi
-#EXTINF:-1 tvg-name="Tonight She Comes (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNzk3MTc5M15BMl5BanBnXkFtZTgwOTMzNTQwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Tonight She Comes (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tonight She Comes (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNzk3MTc5M15BMl5BanBnXkFtZTgwOTMzNTQwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Tonight She Comes (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35957.avi
-#EXTINF:-1 tvg-name="Viaje Al Cuarto De Una Madre" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ3ZTA0ZGItYmZmZS00YjYyLWE2YTItYThiOTdiZDk2YTJmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,703,1000_AL_.jpg",Viaje Al Cuarto De Una Madre
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Viaje Al Cuarto De Una Madre" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ3ZTA0ZGItYmZmZS00YjYyLWE2YTItYThiOTdiZDk2YTJmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,703,1000_AL_.jpg" group-title="Movies: Spanish",Viaje Al Cuarto De Una Madre
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35958.avi
-#EXTINF:-1 tvg-name="Virgen a Los 40" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNjYTA1NDMtZGZmZi00MTdiLThjZTMtZWU1MGYyZjZkNzgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Virgen a Los 40
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Virgen a Los 40" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNjYTA1NDMtZGZmZi00MTdiLThjZTMtZWU1MGYyZjZkNzgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Virgen a Los 40
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35959.avi
-#EXTINF:-1 tvg-name="Animales Sin Collar" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNGM3ZjQtYjA1Ni00ZTNmLTljYzEtZDIzOTYwOTUwYzQzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Animales Sin Collar
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Animales Sin Collar" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNGM3ZjQtYjA1Ni00ZTNmLTljYzEtZDIzOTYwOTUwYzQzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",Animales Sin Collar
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35974.mp4
-#EXTINF:-1 tvg-name="Aprendiendo a Vivir" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://www.google.se/url?sa=i&source=images&cd=&ved=2ahUKEwjGvKDaz7LnAhWty6YKHY-QCD8QjRx6BAgBEAQ&url=https%3A%2F%2Fduncandegross.blogspot.com%2F2019%2F02%2Faprendiendo-vivir-2019.html&psig=AOvVaw1ZhuY9e_hWe6pNqxSOCy3Q&ust=1580724477103105",Aprendiendo a Vivir
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Aprendiendo a Vivir" tvg-logo="https://www.google.se/url?sa=i&source=images&cd=&ved=2ahUKEwjGvKDaz7LnAhWty6YKHY-QCD8QjRx6BAgBEAQ&url=https%3A%2F%2Fduncandegross.blogspot.com%2F2019%2F02%2Faprendiendo-vivir-2019.html&psig=AOvVaw1ZhuY9e_hWe6pNqxSOCy3Q&ust=1580724477103105" group-title="Movies: Spanish",Aprendiendo a Vivir
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35975.mp4
-#EXTINF:-1 tvg-name="Cold War (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJmNzExOGItZTQyMi00YzBlLTk0ZTQtNzAxYmUwZDQwZjU4XkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Cold War (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Cold War (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJmNzExOGItZTQyMi00YzBlLTk0ZTQtNzAxYmUwZDQwZjU4XkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",Cold War (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35976.mp4
-#EXTINF:-1 tvg-name="Feed The Devil (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1MjU0MTQ3OV5BMl5BanBnXkFtZTgwMjgxMjk2OTE@._V1_SY1000_CR0,0,708,1000_AL_.jpg",Feed The Devil (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Feed The Devil (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1MjU0MTQ3OV5BMl5BanBnXkFtZTgwMjgxMjk2OTE@._V1_SY1000_CR0,0,708,1000_AL_.jpg" group-title="Movies: Spanish",Feed The Devil (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35977.mp4
-#EXTINF:-1 tvg-name="High Flying Bird (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk1NDI2MzEyNF5BMl5BanBnXkFtZTgwODk3ODQyNzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg",High Flying Bird (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="High Flying Bird (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk1NDI2MzEyNF5BMl5BanBnXkFtZTgwODk3ODQyNzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",High Flying Bird (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35978.mp4
-#EXTINF:-1 tvg-name="Kevin Hart`s Guide To Black History (ES)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5Y2ZiNjQtNzM0YS00MGNkLWE2NDQtOGY4Yjc0YzIxNDVjXkEyXkFqcGdeQXVyMzcwMjcwNQ@@._V1_SY1000_CR0,0,713,1000_AL_.jpg",Kevin Hart`s Guide To Black History (ES)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Kevin Hart`s Guide To Black History (ES)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ5Y2ZiNjQtNzM0YS00MGNkLWE2NDQtOGY4Yjc0YzIxNDVjXkEyXkFqcGdeQXVyMzcwMjcwNQ@@._V1_SY1000_CR0,0,713,1000_AL_.jpg" group-title="Movies: Spanish",Kevin Hart`s Guide To Black History (ES)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35979.mp4
-#EXTINF:-1 tvg-name="La Esposa Secreta De Mi Marido" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgxNWNmZjYtYWM1Yi00MDMzLTg4OTYtZjk3NjhkNmFiZjE5XkEyXkFqcGdeQXVyMTU2ODA1MzI@._V1_SY1000_CR0,0,671,1000_AL_.jpg",La Esposa Secreta De Mi Marido
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Esposa Secreta De Mi Marido" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgxNWNmZjYtYWM1Yi00MDMzLTg4OTYtZjk3NjhkNmFiZjE5XkEyXkFqcGdeQXVyMTU2ODA1MzI@._V1_SY1000_CR0,0,671,1000_AL_.jpg" group-title="Movies: Spanish",La Esposa Secreta De Mi Marido
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35980.mp4
-#EXTINF:-1 tvg-name="La Hermanastra" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgxNWNmZjYtYWM1Yi00MDMzLTg4OTYtZjk3NjhkNmFiZjE5XkEyXkFqcGdeQXVyMTU2ODA1MzI@._V1_SY1000_CR0,0,671,1000_AL_.jpg",La Hermanastra
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Hermanastra" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgxNWNmZjYtYWM1Yi00MDMzLTg4OTYtZjk3NjhkNmFiZjE5XkEyXkFqcGdeQXVyMTU2ODA1MzI@._V1_SY1000_CR0,0,671,1000_AL_.jpg" group-title="Movies: Spanish",La Hermanastra
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35981.mp4
-#EXTINF:-1 tvg-name="Los Pitufos" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUzNTczYTMtMzdkOC00ODlkLTk1NDMtYWYxMzQyYzI1YmVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SY1000_CR0,0,668,1000_AL_.jpg",Los Pitufos
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Los Pitufos" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUzNTczYTMtMzdkOC00ODlkLTk1NDMtYWYxMzQyYzI1YmVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SY1000_CR0,0,668,1000_AL_.jpg" group-title="Movies: Spanish",Los Pitufos
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35982.mp4
-#EXTINF:-1 tvg-name="Los Pitufos 2" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkMDRlYzItOTUyOS00ZmU5LWEyN2EtMWE2YWU4MzBlOTBjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SY1000_CR0,0,689,1000_AL_.jpg",Los Pitufos 2
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Los Pitufos 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzVkMDRlYzItOTUyOS00ZmU5LWEyN2EtMWE2YWU4MzBlOTBjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SY1000_CR0,0,689,1000_AL_.jpg" group-title="Movies: Spanish",Los Pitufos 2
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35983.mp4
-#EXTINF:-1 tvg-name="Malos Tiempos En El Royale" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1Nzk1MDc1MF5BMl5BanBnXkFtZTgwNjU2NDExNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Malos Tiempos En El Royale
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Malos Tiempos En El Royale" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1Nzk1MDc1MF5BMl5BanBnXkFtZTgwNjU2NDExNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Malos Tiempos En El Royale
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35984.mp4
-#EXTINF:-1 tvg-name="Master Of The Drunken Fist Beggar So" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmODU0YmEtMzU3Zi00NjdlLWJhNjktMDUxOWIxNmYyMmE3XkEyXkFqcGdeQXVyNzIyMTIyOTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg",Master Of The Drunken Fist Beggar So
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Master Of The Drunken Fist Beggar So" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmODU0YmEtMzU3Zi00NjdlLWJhNjktMDUxOWIxNmYyMmE3XkEyXkFqcGdeQXVyNzIyMTIyOTQ@._V1_SY1000_CR0,0,742,1000_AL_.jpg" group-title="Movies: Spanish",Master Of The Drunken Fist Beggar So
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35985.mp4
-#EXTINF:-1 tvg-name="Regreso Al Futuro" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg",Regreso Al Futuro
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Regreso Al Futuro" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg" group-title="Movies: Spanish",Regreso Al Futuro
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35986.mp4
-#EXTINF:-1 tvg-name="Regreso Al Futuro II" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",Regreso Al Futuro II
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Regreso Al Futuro II" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies: Spanish",Regreso Al Futuro II
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/35987.mp4
-#EXTINF:-1 tvg-name="Ataque.A.Los.Titanes.2015" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEwMDlmOTAtNGE1NC00ZjA2LWExYzUtYWY2N2E1MmI3MjgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Ataque.A.Los.Titanes.2015
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ataque.A.Los.Titanes.2015" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEwMDlmOTAtNGE1NC00ZjA2LWExYzUtYWY2N2E1MmI3MjgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",Ataque.A.Los.Titanes.2015
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36128.mp4
-#EXTINF:-1 tvg-name="Aves.Del.Terror.2019" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEwMDlmOTAtNGE1NC00ZjA2LWExYzUtYWY2N2E1MmI3MjgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Aves.Del.Terror.2019
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Aves.Del.Terror.2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEwMDlmOTAtNGE1NC00ZjA2LWExYzUtYWY2N2E1MmI3MjgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",Aves.Del.Terror.2019
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36129.mp4
-#EXTINF:-1 tvg-name="Carne.Tremula.1997" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEwMDlmOTAtNGE1NC00ZjA2LWExYzUtYWY2N2E1MmI3MjgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Carne.Tremula.1997
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Carne.Tremula.1997" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEwMDlmOTAtNGE1NC00ZjA2LWExYzUtYWY2N2E1MmI3MjgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="Movies: Spanish",Carne.Tremula.1997
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36130.mp4
-#EXTINF:-1 tvg-name="Dos Padres Por Desigual" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA4Nzc1OTg2OV5BMl5BanBnXkFtZTgwODE3ODgwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Dos Padres Por Desigual
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Dos Padres Por Desigual" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA4Nzc1OTg2OV5BMl5BanBnXkFtZTgwODE3ODgwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Dos Padres Por Desigual
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36131.mp4
-#EXTINF:-1 tvg-name="Dunkerque" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Dunkerque
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Dunkerque" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Dunkerque
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36132.mp4
-#EXTINF:-1 tvg-name="Eddie Spanish" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY1NTU0OTQ4OV5BMl5BanBnXkFtZTgwMTY5MTMyNjE@._V1_SY1000_CR0,0,662,1000_AL_.jpg",Eddie Spanish
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Eddie Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY1NTU0OTQ4OV5BMl5BanBnXkFtZTgwMTY5MTMyNjE@._V1_SY1000_CR0,0,662,1000_AL_.jpg" group-title="Movies: Spanish",Eddie Spanish
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36133.mp4
-#EXTINF:-1 tvg-name="Eddie Spanish" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY1NTU0OTQ4OV5BMl5BanBnXkFtZTgwMTY5MTMyNjE@._V1_SY1000_CR0,0,662,1000_AL_.jpg",Eddie Spanish
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Eddie Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY1NTU0OTQ4OV5BMl5BanBnXkFtZTgwMTY5MTMyNjE@._V1_SY1000_CR0,0,662,1000_AL_.jpg" group-title="Movies: Spanish",Eddie Spanish
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36134.mp4
-#EXTINF:-1 tvg-name="El Anillo Del Rey" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjljZmRjOTItNjM0Yi00MDllLWFmYmQtYzYwOTQyZmM5MDJkXkEyXkFqcGdeQXVyOTYyMTc4NjA@._V1_SY1000_SX683_AL_.jpg",El Anillo Del Rey
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Anillo Del Rey" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjljZmRjOTItNjM0Yi00MDllLWFmYmQtYzYwOTQyZmM5MDJkXkEyXkFqcGdeQXVyOTYyMTc4NjA@._V1_SY1000_SX683_AL_.jpg" group-title="Movies: Spanish",El Anillo Del Rey
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36135.mp4
-#EXTINF:-1 tvg-name="Escuela Para Fracasados" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEyYzg5N2YtZmYzZC00OTg0LWE3ZmYtNDZhMGFkOTBjOTYxXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,631,1000_AL_.jpg",Escuela Para Fracasados
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Escuela Para Fracasados" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEyYzg5N2YtZmYzZC00OTg0LWE3ZmYtNDZhMGFkOTBjOTYxXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,631,1000_AL_.jpg" group-title="Movies: Spanish",Escuela Para Fracasados
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36136.mp4
-#EXTINF:-1 tvg-name="Inmersión" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2NDUyMTY3M15BMl5BanBnXkFtZTgwODU0MDQ5NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Inmersión
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Inmersión" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2NDUyMTY3M15BMl5BanBnXkFtZTgwODU0MDQ5NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Inmersión
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36137.mp4
-#EXTINF:-1 tvg-name="Locos De Remate" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFkM2NiYTktODYwOC00NmI5LTgyNmItYTYzZGU1ZTJiN2E5XkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_.jpg",Locos De Remate
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Locos De Remate" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFkM2NiYTktODYwOC00NmI5LTgyNmItYTYzZGU1ZTJiN2E5XkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_.jpg" group-title="Movies: Spanish",Locos De Remate
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36138.mp4
-#EXTINF:-1 tvg-name="Matador" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiNTJiYzItOTJhNi00YzBlLTljNjUtNDNkNWVkMjE5MTA1XkEyXkFqcGdeQXVyNjU0NDI4NjE@._V1_SY1000_CR0,0,713,1000_AL_.jpg",Matador
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Matador" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiNTJiYzItOTJhNi00YzBlLTljNjUtNDNkNWVkMjE5MTA1XkEyXkFqcGdeQXVyNjU0NDI4NjE@._V1_SY1000_CR0,0,713,1000_AL_.jpg" group-title="Movies: Spanish",Matador
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36139.mp4
-#EXTINF:-1 tvg-name="Papillon" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxMTMyOTE2NF5BMl5BanBnXkFtZTgwMDYyNzY1NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Papillon
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Papillon" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxMTMyOTE2NF5BMl5BanBnXkFtZTgwMDYyNzY1NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Papillon
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36140.mp4
-#EXTINF:-1 tvg-name="Ritmos Del Corazon" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2MTM2MjcxNV5BMl5BanBnXkFtZTgwMzI3ODgyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Ritmos Del Corazon
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ritmos Del Corazon" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2MTM2MjcxNV5BMl5BanBnXkFtZTgwMzI3ODgyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Ritmos Del Corazon
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36141.mp4
-#EXTINF:-1 tvg-name="Salsa" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwMmI2NTgtNDg3Zi00YTMwLWE3NDItODY4OGQ4MmQ3NGFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,638,1000_AL_.jpg",Salsa
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Salsa" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwMmI2NTgtNDg3Zi00YTMwLWE3NDItODY4OGQ4MmQ3NGFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,638,1000_AL_.jpg" group-title="Movies: Spanish",Salsa
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36142.mp4
-#EXTINF:-1 tvg-name="Secretas Intenciones" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMzEyOTAzOF5BMl5BanBnXkFtZTgwMjk0MTkzMTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",Secretas Intenciones
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Secretas Intenciones" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMzEyOTAzOF5BMl5BanBnXkFtZTgwMjk0MTkzMTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="Movies: Spanish",Secretas Intenciones
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36144.mp4
-#EXTINF:-1 tvg-name="Ahora o Nunca" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyZjZlMDMtNDM0Yy00ZjA3LThkNWEtYzY4MTEyNjEzOTk2XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY1000_CR0,0,708,1000_AL_.jpg",Ahora o Nunca
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ahora o Nunca" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyZjZlMDMtNDM0Yy00ZjA3LThkNWEtYzY4MTEyNjEzOTk2XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY1000_CR0,0,708,1000_AL_.jpg" group-title="Movies: Spanish",Ahora o Nunca
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36268.avi
-#EXTINF:-1 tvg-name="Cpanilla y La Leyenda De La Bestia" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyMTc4NDc2N15BMl5BanBnXkFtZTgwMDk3MTEwNzE@._V1_.jpg",Cpanilla y La Leyenda De La Bestia
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Cpanilla y La Leyenda De La Bestia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyMTc4NDc2N15BMl5BanBnXkFtZTgwMDk3MTEwNzE@._V1_.jpg" group-title="Movies: Spanish",Cpanilla y La Leyenda De La Bestia
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36269.avi
-#EXTINF:-1 tvg-name="Daddy Cool (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFjNGEyOGQtMTJjNy00ZGIyLTgzODgtZGM4NWQ2NDI1MTc4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,708,1000_AL_.jpg",Daddy Cool (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Daddy Cool (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFjNGEyOGQtMTJjNy00ZGIyLTgzODgtZGM4NWQ2NDI1MTc4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,708,1000_AL_.jpg" group-title="Movies: Spanish",Daddy Cool (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36270.avi
-#EXTINF:-1 tvg-name="Dune (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAzYzNlMDMtMGRjYS00M2UxLTk0MmEtYmE4YWZiYmEwOTIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,640,1000_AL_.jpg",Dune (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Dune (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAzYzNlMDMtMGRjYS00M2UxLTk0MmEtYmE4YWZiYmEwOTIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,640,1000_AL_.jpg" group-title="Movies: Spanish",Dune (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36271.avi
-#EXTINF:-1 tvg-name="El Espia Que Me Planto" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY1MTA0NjgyN15BMl5BanBnXkFtZTgwMTEzNDQ4NTM@._V1_SY1000_CR0,0,648,1000_AL_.jpg",El Espia Que Me Planto
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Espia Que Me Planto" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY1MTA0NjgyN15BMl5BanBnXkFtZTgwMTEzNDQ4NTM@._V1_SY1000_CR0,0,648,1000_AL_.jpg" group-title="Movies: Spanish",El Espia Que Me Planto
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36272.avi
-#EXTINF:-1 tvg-name="El Topo" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmUzMWQzMTItYzZiOS00NmI1LWIzMTgtOWE4NzE1M2NhY2IxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",El Topo
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Topo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmUzMWQzMTItYzZiOS00NmI1LWIzMTgtOWE4NzE1M2NhY2IxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies: Spanish",El Topo
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36273.avi
-#EXTINF:-1 tvg-name="Hotel Salvacion" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5OWQ0ZmEtMTk5YS00MjE4LWE1OGMtYTYxYzQ1YzM2NzZhXkEyXkFqcGdeQXVyNjg1NDE5NjI@._V1_SY1000_CR0,0,699,1000_AL_.jpg",Hotel Salvacion
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Hotel Salvacion" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5OWQ0ZmEtMTk5YS00MjE4LWE1OGMtYTYxYzQ1YzM2NzZhXkEyXkFqcGdeQXVyNjg1NDE5NjI@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="Movies: Spanish",Hotel Salvacion
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36274.avi
-#EXTINF:-1 tvg-name="iBoy (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQxODM2MDAyM15BMl5BanBnXkFtZTgwODc4MTE0MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",iBoy (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="iBoy (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQxODM2MDAyM15BMl5BanBnXkFtZTgwODc4MTE0MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",iBoy (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36275.avi
-#EXTINF:-1 tvg-name="La Fiesta De Las Salias" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",La Fiesta De Las Salias
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Fiesta De Las Salias" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",La Fiesta De Las Salias
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36276.avi
-#EXTINF:-1 tvg-name="La Revolucion Silenciosa" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEwZDcwNGUtOGVkYS00M2UzLWE2ZTctNDlhM2M0MWI5NzQ5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",La Revolucion Silenciosa
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Revolucion Silenciosa" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEwZDcwNGUtOGVkYS00M2UzLWE2ZTctNDlhM2M0MWI5NzQ5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",La Revolucion Silenciosa
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36277.avi
-#EXTINF:-1 tvg-name="La Sombra De Los Otros" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SY1000_CR0,0,706,1000_AL_.jpg",La Sombra De Los Otros
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Sombra De Los Otros" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SY1000_CR0,0,706,1000_AL_.jpg" group-title="Movies: Spanish",La Sombra De Los Otros
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36278.avi
-#EXTINF:-1 tvg-name="Linterna Verde" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMTg3OTM5Ml5BMl5BanBnXkFtZTcwNzczMjEyNQ@@._V1_.jpg",Linterna Verde
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Linterna Verde" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMTg3OTM5Ml5BMl5BanBnXkFtZTcwNzczMjEyNQ@@._V1_.jpg" group-title="Movies: Spanish",Linterna Verde
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36279.avi
-#EXTINF:-1 tvg-name="Los Cinco y El Valle De Los Dinosaurios" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZlYTJiOGItNzBjNC00MGUyLWI2ZWUtMDNmNjU2ZWI5NTNkXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_SX700_AL_.jpg",Los Cinco y El Valle De Los Dinosaurios
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Los Cinco y El Valle De Los Dinosaurios" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZlYTJiOGItNzBjNC00MGUyLWI2ZWUtMDNmNjU2ZWI5NTNkXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_SX700_AL_.jpg" group-title="Movies: Spanish",Los Cinco y El Valle De Los Dinosaurios
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36280.avi
-#EXTINF:-1 tvg-name="Monky (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBkOGY5MGEtNWEzNi00YjIzLTlhOGMtNDQwNjZhNTAyMGQ0XkEyXkFqcGdeQXVyNzI1ODMzMTY@._V1_SY1000_CR0,0,699,1000_AL_.jpg",Monky (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Monky (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBkOGY5MGEtNWEzNi00YjIzLTlhOGMtNDQwNjZhNTAyMGQ0XkEyXkFqcGdeQXVyNzI1ODMzMTY@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="Movies: Spanish",Monky (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36281.avi
-#EXTINF:-1 tvg-name="Mowgli La leyenda De La Selva" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Mowgli La leyenda De La Selva
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Mowgli La leyenda De La Selva" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Mowgli La leyenda De La Selva
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36282.avi
-#EXTINF:-1 tvg-name="10X10 (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1MTk3NDIzOF5BMl5BanBnXkFtZTgwNzUxNDIyNTM@._V1_SY1000_CR0,0,663,1000_AL_.jpg",10X10 (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="10X10 (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1MTk3NDIzOF5BMl5BanBnXkFtZTgwNzUxNDIyNTM@._V1_SY1000_CR0,0,663,1000_AL_.jpg" group-title="Movies: Spanish",10X10 (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36375.mp4
-#EXTINF:-1 tvg-name="211 (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNjA0MjMzNF5BMl5BanBnXkFtZTgwNTM2NzczNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",211 (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="211 (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNjA0MjMzNF5BMl5BanBnXkFtZTgwNTM2NzczNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",211 (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36376.mp4
-#EXTINF:-1 tvg-name="Accident Man (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiY2JhNmMtYjA2MS00NTQ4LWI4MDctZmQ1NTY3OWI4YTc0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg",Accident Man (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Accident Man (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiY2JhNmMtYjA2MS00NTQ4LWI4MDctZmQ1NTY3OWI4YTc0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg" group-title="Movies: Spanish",Accident Man (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36377.mp4
-#EXTINF:-1 tvg-name="Amordianchel" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiY2JhNmMtYjA2MS00NTQ4LWI4MDctZmQ1NTY3OWI4YTc0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg",Amordianchel
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Amordianchel" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiY2JhNmMtYjA2MS00NTQ4LWI4MDctZmQ1NTY3OWI4YTc0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg" group-title="Movies: Spanish",Amordianchel
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36379.mp4
-#EXTINF:-1 tvg-name="Ballando" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiY2JhNmMtYjA2MS00NTQ4LWI4MDctZmQ1NTY3OWI4YTc0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg",Ballando
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Ballando" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiY2JhNmMtYjA2MS00NTQ4LWI4MDctZmQ1NTY3OWI4YTc0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg" group-title="Movies: Spanish",Ballando
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36380.mp4
-#EXTINF:-1 tvg-name="Bleach" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiYWZiOTQtZmQ4My00YWNiLTllMDEtYWQxODFjNjgzNTNiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SY1000_CR0,0,705,1000_AL_.jpg",Bleach
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bleach" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiYWZiOTQtZmQ4My00YWNiLTllMDEtYWQxODFjNjgzNTNiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SY1000_CR0,0,705,1000_AL_.jpg" group-title="Movies: Spanish",Bleach
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36384.mp4
-#EXTINF:-1 tvg-name="Corporate" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRjMzYxYjYtOWMwYS00NzYzLWE2OTEtNjljMmFhNDFhNGM5L2ltYWdlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,736,1000_AL_.jpg",Corporate
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Corporate" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRjMzYxYjYtOWMwYS00NzYzLWE2OTEtNjljMmFhNDFhNGM5L2ltYWdlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,736,1000_AL_.jpg" group-title="Movies: Spanish",Corporate
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36386.mp4
-#EXTINF:-1 tvg-name="Calanderio" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdlNGNkMWEtNDAyNC00ZDcyLTkyMTAtMGY5NzI4M2NiYWNiXkEyXkFqcGdeQXVyNjY5MjA0NTk@._V1_SX707_CR0,0,707,999_AL_.jpg",Calanderio
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Calanderio" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdlNGNkMWEtNDAyNC00ZDcyLTkyMTAtMGY5NzI4M2NiYWNiXkEyXkFqcGdeQXVyNjY5MjA0NTk@._V1_SX707_CR0,0,707,999_AL_.jpg" group-title="Movies: Spanish",Calanderio
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36387.mp4
-#EXTINF:-1 tvg-name="Cam (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYwZDg4Y2YtN2RiYS00YTJlLTkyNTctNjJlZjVjMmQzMmNiXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Cam (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Cam (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYwZDg4Y2YtN2RiYS00YTJlLTkyNTctNjJlZjVjMmQzMmNiXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",Cam (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36388.mp4
-#EXTINF:-1 tvg-name="Cambio De Princesa" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMjYxMjEzOF5BMl5BanBnXkFtZTgwMjAwNDE3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Cambio De Princesa
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Cambio De Princesa" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMjYxMjEzOF5BMl5BanBnXkFtZTgwMjAwNDE3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Cambio De Princesa
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36389.mp4
-#EXTINF:-1 tvg-name="Equalizer 2 (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg",Equalizer 2 (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Equalizer 2 (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg" group-title="Movies: Spanish",Equalizer 2 (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36491.mp4
-#EXTINF:-1 tvg-name="Esrtallas" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI1MmFjYjItZGY1OC00ZjM3LThlMmYtM2JkZDFhZDAzMTMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTcyNTAzMzQ@._V1_.jpg",Esrtallas
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Esrtallas" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI1MmFjYjItZGY1OC00ZjM3LThlMmYtM2JkZDFhZDAzMTMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTcyNTAzMzQ@._V1_.jpg" group-title="Movies: Spanish",Esrtallas
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36492.mp4
-#EXTINF:-1 tvg-name="Famila (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwMDE1MDktMTBiMC00Y2Q1LWFjNGQtMzUxY2UxMGFmMzZkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,699,1000_AL_.jpg",Famila (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Famila (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwMDE1MDktMTBiMC00Y2Q1LWFjNGQtMzUxY2UxMGFmMzZkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="Movies: Spanish",Famila (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36494.mp4
-#EXTINF:-1 tvg-name="For 1 Friday" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",For 1 Friday
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="For 1 Friday" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg" group-title="Movies: Spanish",For 1 Friday
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36495.mp4
-#EXTINF:-1 tvg-name="Fortress (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYwZWQyODctOWE0Mi00MTIzLTkxZDUtNWJlYzZkYzc2ZWM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,676,1000_AL_.jpg",Fortress (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Fortress (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYwZWQyODctOWE0Mi00MTIzLTkxZDUtNWJlYzZkYzc2ZWM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="Movies: Spanish",Fortress (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36496.mp4
-#EXTINF:-1 tvg-name="Foxtrot (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxY2ZkM2UtYmRmOS00MWYzLTg4NjktY2MzZjU0MjU0YTc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,677,1000_AL_.jpg",Foxtrot (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Foxtrot (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxY2ZkM2UtYmRmOS00MWYzLTg4NjktY2MzZjU0MjU0YTc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,677,1000_AL_.jpg" group-title="Movies: Spanish",Foxtrot (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36497.mp4
-#EXTINF:-1 tvg-name="Future World (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMxMDZhNjEtYjA3ZS00MzE5LTkwN2MtNmNhMzJiNjQwMzQ1XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg",Future World (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Future World (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMxMDZhNjEtYjA3ZS00MzE5LTkwN2MtNmNhMzJiNjQwMzQ1XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="Movies: Spanish",Future World (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36498.mp4
-#EXTINF:-1 tvg-name="Gemini (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMxOTMwMzktYjcyZS00MGY4LWJkYjMtYmViYzRkZTgwZDIxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg",Gemini (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Gemini (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMxOTMwMzktYjcyZS00MGY4LWJkYjMtYmViYzRkZTgwZDIxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Gemini (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36499.mp4
-#EXTINF:-1 tvg-name="Gotti (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyODI1NDMxOV5BMl5BanBnXkFtZTgwNDg0Njg0NTM@._V1_SY1000_CR0,0,704,1000_AL_.jpg",Gotti (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Gotti (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyODI1NDMxOV5BMl5BanBnXkFtZTgwNDg0Njg0NTM@._V1_SY1000_CR0,0,704,1000_AL_.jpg" group-title="Movies: Spanish",Gotti (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36500.mp4
-#EXTINF:-1 tvg-name="Guardians (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MzcxMTE3MV5BMl5BanBnXkFtZTgwMTMyNzc1OTE@._V1_SY1000_CR0,0,707,1000_AL_.jpg",Guardians (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Guardians (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MzcxMTE3MV5BMl5BanBnXkFtZTgwMTMyNzc1OTE@._V1_SY1000_CR0,0,707,1000_AL_.jpg" group-title="Movies: Spanish",Guardians (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36501.mp4
-#EXTINF:-1 tvg-name="Hotel Transvia 4 (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Hotel Transvia 4 (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Hotel Transvia 4 (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Hotel Transvia 4 (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36502.mp4
-#EXTINF:-1 tvg-name="Incoming (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyYTlhZTctMzNlOC00ODQ4LWE1ZmQtYTkxODkzMjAxZTMyXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg",Incoming (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Incoming (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyYTlhZTctMzNlOC00ODQ4LWE1ZmQtYTkxODkzMjAxZTMyXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="Movies: Spanish",Incoming (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36503.mp4
-#EXTINF:-1 tvg-name="Incredibile 2 (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR0,0,674,1000_AL_.jpg",Incredibile 2 (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Incredibile 2 (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Incredibile 2 (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36504.mp4
-#EXTINF:-1 tvg-name="Jurrasic Park (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",Jurrasic Park (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Jurrasic Park (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg" group-title="Movies: Spanish",Jurrasic Park (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36505.mp4
-#EXTINF:-1 tvg-name="AfterPart" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1NjgwODUyNV5BMl5BanBnXkFtZTgwOTQ0NTc5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",AfterPart
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="AfterPart" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1NjgwODUyNV5BMl5BanBnXkFtZTgwOTQ0NTc5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",AfterPart
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36675.mp4
-#EXTINF:-1 tvg-name="Alto el Fuego (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://pics.filmaffinity.com/cessez_le_feu-956377006-large.jpg",Alto el Fuego (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Alto el Fuego (Spanish)" tvg-logo="https://pics.filmaffinity.com/cessez_le_feu-956377006-large.jpg" group-title="Movies: Spanish",Alto el Fuego (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36677.mp4
-#EXTINF:-1 tvg-name="Dead Pool 2 (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg",Dead Pool 2 (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Dead Pool 2 (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg" group-title="Movies: Spanish",Dead Pool 2 (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36681.mp4
-#EXTINF:-1 tvg-name="Familia Mortel" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg3MjU4NTEwNl5BMl5BanBnXkFtZTgwNDMxMDY0MDE@._V1_SY1000_CR0,0,710,1000_AL_.jpg",Familia Mortel
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Familia Mortel" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg3MjU4NTEwNl5BMl5BanBnXkFtZTgwNDMxMDY0MDE@._V1_SY1000_CR0,0,710,1000_AL_.jpg" group-title="Movies: Spanish",Familia Mortel
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36682.mp4
-#EXTINF:-1 tvg-name="Huricane (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA3OTYxMzg0MDFeQTJeQWpwZ15BbWU4MDY1MjY0MTEx._V1_.jpg",Huricane (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Huricane (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA3OTYxMzg0MDFeQTJeQWpwZ15BbWU4MDY1MjY0MTEx._V1_.jpg" group-title="Movies: Spanish",Huricane (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36683.mp4
-#EXTINF:-1 tvg-name="Laes Termo" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2EzOWVlNzgtYzNkOC00Y2FkLTk5NzQtZTg2NGQ3NDEzY2E4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_SX700_AL_.jpg",Laes Termo
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Laes Termo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2EzOWVlNzgtYzNkOC00Y2FkLTk5NzQtZTg2NGQ3NDEzY2E4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_SX700_AL_.jpg" group-title="Movies: Spanish",Laes Termo
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36684.mp4
-#EXTINF:-1 tvg-name="Luck 1" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5NDk3MjAzMF5BMl5BanBnXkFtZTcwMjUyNzExNw@@._V1_SX647_CR0,0,647,999_AL_.jpg",Luck 1
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Luck 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5NDk3MjAzMF5BMl5BanBnXkFtZTcwMjUyNzExNw@@._V1_SX647_CR0,0,647,999_AL_.jpg" group-title="Movies: Spanish",Luck 1
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36685.mp4
-#EXTINF:-1 tvg-name="Major Problems" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNiYTIyZTEtYWJhMC00MmFkLWJkYjQtOTZhMzQxMjJlNzdmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",Major Problems
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Major Problems" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNiYTIyZTEtYWJhMC00MmFkLWJkYjQtOTZhMzQxMjJlNzdmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies: Spanish",Major Problems
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36686.mp4
-#EXTINF:-1 tvg-name="Maze (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwNjUzYTctZmJhMi00Y2U5LWIwMGUtNmYxYzY0NDc5ZDZlXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_SY1000_SX675_AL_.jpg",Maze (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Maze (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwNjUzYTctZmJhMi00Y2U5LWIwMGUtNmYxYzY0NDc5ZDZlXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_SY1000_SX675_AL_.jpg" group-title="Movies: Spanish",Maze (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36687.mp4
-#EXTINF:-1 tvg-name="Met Blacks (Spanish)" tvg-id="EPG N/A" group-title="Movies: Spanish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAxNDY3ODk3MF5BMl5BanBnXkFtZTgwMjYwNDA5NzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",Met Blacks (Spanish)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Met Blacks (Spanish)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAxNDY3ODk3MF5BMl5BanBnXkFtZTgwMjYwNDA5NzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Movies: Spanish",Met Blacks (Spanish)
 http://livegopanel.club:8080/movie/44UmPM7Vwd/NmZh7Sy85y/36688.mp4
