@@ -1,54 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="Live: Spain",LA 1
+#EXTINF:-1 tvg-shift="1" tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="Live: Spain",LA 1
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/623
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="Live: Spain",LA 1 HD
+#EXTINF:-1 tvg-shift="1" tvg-id="la1.es" tvg-name="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="Live: Spain",LA 1 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3364
-#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="Live: Spain",La 2
+#EXTINF:-1 tvg-shift="2" tvg-id="la2.es" tvg-name="La 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="Live: Spain",La 2
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23025
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="Live: Spain",LA 2 HD
+#EXTINF:-1 tvg-shift="2" tvg-id="la2.es" tvg-name="LA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="Live: Spain",LA 2 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/622
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Live: Spain",Antena3
+#EXTINF:-1 tvg-shift="3" tvg-id="antena3.es" tvg-name="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Live: Spain",Antena3
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1097
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Live: Spain",ANTENA3 HD
+#EXTINF:-1 tvg-shift="3" tvg-id="antena3.es" tvg-name="ANTENA3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="Live: Spain",ANTENA3 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3383
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Live: Spain",Cuatro
+#EXTINF:-1 tvg-shift="4" tvg-id="cuatro.es" tvg-name="Cuatro" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Live: Spain",Cuatro
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/627
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Live: Spain",CUATRO HD
+#EXTINF:-1 tvg-shift="4" tvg-id="cuatro.es" tvg-name="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="Live: Spain",CUATRO HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3391
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Live: Spain",Telecinco
+#EXTINF:-1 tvg-shift="5" tvg-id="telecinco.es" tvg-name="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Live: Spain",Telecinco
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/624
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Live: Spain",TELECINCO HD
+#EXTINF:-1 tvg-shift="5" tvg-id="telecinco.es" tvg-name="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Live: Spain",TELECINCO HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3384
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="La Sexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Live: Spain",La Sexta
+#EXTINF:-1 tvg-shift="6" tvg-id="lasexta.es" tvg-name="La Sexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Live: Spain",La Sexta
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/628
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Live: Spain",LA SEXTA HD
+#EXTINF:-1 tvg-shift="6" tvg-id="lasexta.es" tvg-name="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="Live: Spain",LA SEXTA HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3392
-#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="Live: Spain",#0
+#EXTINF:-1 tvg-shift="7" tvg-id="Number 0 ES" tvg-name="#0" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="Live: Spain",#0
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/635
-#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0 HD" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="Live: Spain",#0 HD
+#EXTINF:-1 tvg-shift="7" tvg-id="Number 0 ES" tvg-name="#0 HD" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="Live: Spain",#0 HD
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2401
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: # Vamos" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1085
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos BAR" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos BAR
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34556
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos BAR 1" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos BAR 1
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34557
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos BAR 2" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos BAR 2
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34558
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="[" group-title="Live: Spain",ES: # Vamos FHD
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23061
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: # Vamos HD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos HD
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/3372
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: # Vamos SD" tvg-logo="Logo N/A" group-title="Live: Spain",ES: # Vamos SD
+#EXTINF:-1 tvg-shift="8" tvg-id="vamos.es" tvg-name="# Vamos" tvg-logo="movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Live: Spain",# Vamos
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/34551
+#EXTINF:-1 tvg-shift="8" tvg-id="vamos.es" tvg-name="# Vamos HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Live: Spain",# Vamos HD
+http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23061
+#EXTINF:-1 tvg-shift="9" tvg-id="7tv.es" tvg-name="7RM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/7TVMUR.png" group-title="Live: Spain",7RM HD
+http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23076
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 24 HORAS
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/2630
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: 3/24" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 3/24
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1441
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="ES: 33" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 33
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23077
-#EXTINF:-1 tvg-id="NULL" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="Live: Spain",ES: 7RM FHD
-http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/23076
 #EXTINF:-1 tvg-id="8 tv ES" tvg-name="ES: 8TV Madrid" tvg-logo="Logo N/A" group-title="Live: Spain",ES: 8TV Madrid
 http://livegopanel.club:8080/44UmPM7Vwd/NmZh7Sy85y/1090
 #EXTINF:-1 tvg-id="aande.es" tvg-name="ES: A&E" tvg-logo="[" group-title="Live: Spain",ES: A&E
